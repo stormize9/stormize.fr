@@ -6,6 +6,8 @@ url:
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
+paginate: 5
+
 # Title of the Site
 title: stormize
 # Description of the Site
@@ -44,6 +46,7 @@ disqus-shortname: thedevslot
 author-name: stormize
 # URL for the Image of the Author
 author-image: /assets/images/walp_rounded.png
+author-image: /assets/images/walp_rounded.png
 # 60 Words About the Author
 author-cyber-about: Cybersecurity engineering student - Network and system security, Pentest, OSINT
 author-about: Football and Formule 1 enthusiast
@@ -52,6 +55,12 @@ author-about: Football and Formule 1 enthusiast
 sass:
   sass_dir: _sass
   style: compressed
+
+collections:
+  mydata:
+    output: true
+
+
 
 # Build settings
 plugins:
