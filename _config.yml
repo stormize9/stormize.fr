@@ -57,8 +57,9 @@ sass:
   style: compressed
 
 collections:
-  mydata:
+  kits:
     output: true
+    permalink: /mykits/:title/
 
 
 

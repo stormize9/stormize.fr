@@ -1,0 +1,8 @@
+---
+layout: page
+---
+
+{% for kit in site.kits %}
+<h2>{{ kit.title }}</h2>
+<a href="{{ kit.url }}">Voir le maillot</a>
+{% endfor %}
