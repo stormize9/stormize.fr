@@ -1,38 +1,23 @@
-<style>
-
-.project-image {
-  transition: transform 0.5s ease-in-out;
-}
-
-.project-hover-image {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  transition: opacity 0.9s ease-in-out;
-  transform: scale(1);
-}
-
-.card:hover .project-image {
-  transform: scale(1);
-}
-
-.card:hover .project-hover-image {
-  opacity: 1;
-  transform: scale(1);
-}
-
-</style>
-
-
 <div class="columns is-centered is-multiline is-mobile">
   {% for project in site.data.projects %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
       id="project-card">
       <div class="card" style="background-color:rgb(246, 246, 246)">
         <div style="position:relative;">
+          {% assign file_exists = false %}
+          {% assign image_path = "/assets/images/" | append: project.id | append: ".jpg" %}
+          {% for file in site.static_files %}
+            {% if file.path == image_path %}
+              {% assign file_exists = true %}
+            {% endif %}
+          {% endfor %}
+          {% if file_exists == true %}
           <img src="/assets/images/{{project.id}}.jpg" alt="{{ project.club }}" class="project-image">
           <img src="/assets/images/{{project.id}}b.jpg" alt="{{ project.club }}" class="project-hover-image">
+          {% else %}
+          <img src="/assets/images/{{project.id}}.JPG" alt="{{ project.club }}" class="project-image">
+          <img src="/assets/images/{{project.id}}b.JPG" alt="{{ project.club }}" class="project-hover-image">
+          {% endif %}
           {% if project.vente == "Sold" %}
             <div class="sold-label"><p class=" is-uppercase has-text-weight-medium has-text-grey">SOLD</p></div>
           {% endif %}          
