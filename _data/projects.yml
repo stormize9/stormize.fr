@@ -643,6 +643,13 @@
   taille: L
   vente: Non
 - club: AS Monaco
+  id: '107'
+  image: /assets/images/107.jpg
+  joueur: Bernardo
+  saison: 2015/16
+  taille: M
+  vente: Non
+- club: AS Monaco
   id: '92'
   image: /assets/images/92.jpg
   joueur: "Tchouam\xE9ni"

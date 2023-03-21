@@ -12,8 +12,7 @@ paginate: 5
 title: stormize
 # Description of the Site
 description: Cybersecurity engineering student
-# URL of Image of the Site
-site-image: /assets/images/walp.png
+
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -55,11 +54,6 @@ author-about: Football and Formule 1 enthusiast
 sass:
   sass_dir: _sass
   style: compressed
-
-collections:
-  kits:
-    output: true
-    permalink: /mykits/:title/
 
 
 

@@ -1,6 +1,28 @@
+<style>
 
+.project-image {
+  transition: transform 0.5s ease-in-out;
+}
 
+.project-hover-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.9s ease-in-out;
+  transform: scale(1);
+}
 
+.card:hover .project-image {
+  transform: scale(1);
+}
+
+.card:hover .project-hover-image {
+  opacity: 1;
+  transform: scale(1);
+}
+
+</style>
 
 
 <div class="columns is-centered is-multiline is-mobile">
@@ -9,7 +31,8 @@
       id="project-card">
       <div class="card" style="background-color:rgb(246, 246, 246)">
         <div style="position:relative;">
-          <img src="{{project.image}}" alt="{{ project.club }}">
+          <img src="/assets/images/{{project.id}}.jpg" alt="{{ project.club }}" class="project-image">
+          <img src="/assets/images/{{project.id}}b.jpg" alt="{{ project.club }}" class="project-hover-image">
           {% if project.vente == "Sold" %}
             <div class="sold-label"><p class=" is-uppercase has-text-weight-medium has-text-grey">SOLD</p></div>
           {% endif %}          
