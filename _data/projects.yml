@@ -223,6 +223,13 @@
   taille: L
   vente: Non
 - club: Barcelona
+  id: '108'
+  image: /assets/images/108.jpg
+  joueur: Iniesta
+  saison: 2010/11
+  taille: L
+  vente: Non
+- club: Barcelona
   id: '33'
   image: /assets/images/33.jpg
   joueur: Messi
