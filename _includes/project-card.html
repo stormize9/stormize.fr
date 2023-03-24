@@ -1,6 +1,6 @@
 <div class="columns is-centered is-multiline is-mobile">
   {% for project in site.data.projects %}
-    <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
+    <div class="column  is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
       id="project-card">
       <div class="card" style="background-color:rgb(246, 246, 246)">
         <div style="position:relative;">
@@ -26,14 +26,8 @@
           {% endif %}
         </div>
         <div class="card-content" style="padding:12px;">
-          <p class="has-text-black has-text-weight-light" style="margin-bottom:0.4rem;">{{ project.club}}</p>          
-          <p class="has-text-black has-text-weight-light">{{ project.saison}}</p>
-          {% if project.joueur != 'N/A' %}
-            <p class="has-text-black has-text-weight-light">{{ project.joueur}}</p>
-          {% else %}
-            <p class="has-text-black has-text-weight-light">No player</p>
-          {% endif %}
-          
+          <p class="has-text-black has-text-weight-light" style="margin-bottom:0.4rem;">{{ project.club}} - {{ project.saison}} </p>          
+          <p class="has-text-black has-text-weight-light">{% if project.joueur != 'N/A' %} {{ project.joueur}} {% else %} No player {% endif %}</p>
         </div>
       </div>
     </div>
