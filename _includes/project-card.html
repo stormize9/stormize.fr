@@ -1,7 +1,7 @@
 <div class="columns is-centered is-multiline is-mobile">
   {% for project in site.data.projects %}
     {% assign file_exists = false %}
-    {% assign image_path = "/assets/images/" | append: project.id | append: ".jpg" %}
+    {% assign image_path = "/assets/images/" | append: project.id | append: ".webp" %}
     {% for file in site.static_files %}
       {% if file.path == image_path %}
         {% assign file_exists = true %}
@@ -11,8 +11,8 @@
       <div class="column  is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch" id="project-card">
         <div class="card" style="background-color:rgb(246, 246, 246)">
           <div style="position:relative;">
-            <img src="/assets/images/{{project.id}}.jpg" alt="{{ project.club }}" class="project-image">
-            <img src="/assets/images/{{project.id}}b.jpg" alt="{{ project.club }}" class="project-hover-image">
+            <img src="/assets/images/{{project.id}}.webp" alt="{{ project.club }}" class="project-image">
+            <img src="/assets/images/{{project.id}}b.webp" alt="{{ project.club }}" class="project-hover-image">
             {% if project.vente == "Sold" %}
               <div class="sold-label"><p class=" is-uppercase has-text-weight-medium has-text-grey">SOLD</p></div>
             {% endif %}          
