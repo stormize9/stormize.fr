@@ -1,38 +1,63 @@
 <div class="columns is-centered is-multiline is-mobile">
   {% for project in site.data.projects %}
-    <div class="column  is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
-      id="project-card">
-      <div class="card" style="background-color:rgb(246, 246, 246)">
-        <div style="position:relative;">
-          {% assign file_exists = false %}
-          {% assign image_path = "/assets/images/" | append: project.id | append: ".jpg" %}
-          {% for file in site.static_files %}
-            {% if file.path == image_path %}
-              {% assign file_exists = true %}
+    {% assign file_exists = false %}
+    {% assign image_path = "/assets/images/" | append: project.id | append: ".jpg" %}
+    {% for file in site.static_files %}
+      {% if file.path == image_path %}
+        {% assign file_exists = true %}
+      {% endif %}
+    {% endfor %}
+    {% if file_exists == true %}
+      <div class="column  is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch" id="project-card">
+        <div class="card" style="background-color:rgb(246, 246, 246)">
+          <div style="position:relative;">
+            <img src="/assets/images/{{project.id}}.jpg" alt="{{ project.club }}" class="project-image">
+            <img src="/assets/images/{{project.id}}b.jpg" alt="{{ project.club }}" class="project-hover-image">
+            {% if project.vente == "Sold" %}
+              <div class="sold-label"><p class=" is-uppercase has-text-weight-medium has-text-grey">SOLD</p></div>
+            {% endif %}          
+            {% if project.vente == "Oui" %}
+              <div class="sell-label"><p class="is-uppercase has-text-weight-medium has-text-grey">TO SELL</p></div>
             {% endif %}
-          {% endfor %}
-          {% if file_exists == true %}
-          <img src="/assets/images/{{project.id}}.jpg" alt="{{ project.club }}" class="project-image">
-          <img src="/assets/images/{{project.id}}b.jpg" alt="{{ project.club }}" class="project-hover-image">
-          {% else %}
-          <img src="/assets/images/{{project.id}}.JPG" alt="{{ project.club }}" class="project-image">
-          <img src="/assets/images/{{project.id}}b.JPG" alt="{{ project.club }}" class="project-hover-image">
-          {% endif %}
-          {% if project.vente == "Sold" %}
-            <div class="sold-label"><p class=" is-uppercase has-text-weight-medium has-text-grey">SOLD</p></div>
-          {% endif %}          
-          {% if project.vente == "Oui" %}
-            <div class="sell-label"><p class="is-uppercase has-text-weight-medium has-text-grey">TO SELL</p></div>
-          {% endif %}
-        </div>
-        <div class="card-content" style="padding:12px;">
-          <p class="has-text-black has-text-weight-light" style="margin-bottom:0.4rem;">{{ project.club}} - {{ project.saison}} </p>          
-          <p class="has-text-black has-text-weight-light">{% if project.joueur != 'N/A' %} {{ project.joueur}} {% else %} No player {% endif %}</p>
-          <p class="has-text-black has-text-weight-light">{{ project.version }} - {{ project.type }}</p>
-          <p class="has-text-black has-text-weight-light">{{ project.marque }} ({{ project.taille }}) </p>
+          </div>
+          <div class="card-content" style="padding:12px;">
+            <p class="championnat has-text-black has-text-weight-light" style="display:none;">{{ project.championnat }}</p>
+            <p class="club has-text-black has-text-weight-light" style="margin-bottom:0.4rem;">{{ project.club}} - {{ project.saison}} </p>          
+            <p class="has-text-black has-text-weight-light">{% if project.joueur != 'N/A' %} {{ project.joueur}} {% else %} No player {% endif %}</p>
+            <p class="has-text-black has-text-weight-light">{{ project.version }} - {{ project.type }}</p>
+            <p class="has-text-black has-text-weight-light">{{ project.marque }} ({{ project.taille }}) </p>
+          </div>
         </div>
       </div>
-    </div>
+    {% endif %}
   {% endfor %}
-
 </div>
+
+<script>
+
+  var getUrlParameter = function getUrlParameter(sParam) {
+      var sPageURL = window.location.search.substring(1),
+          sURLVariables = sPageURL.split('&'),
+          sParameterName,
+          i;
+
+      for (i = 0; i < sURLVariables.length; i++) {
+          sParameterName = sURLVariables[i].split('=');
+
+          if (sParameterName[0] === sParam) {
+              return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+          }
+      }
+      return false;
+  };
+  var championnat_user = getUrlParameter('championnat').toLowerCase();
+
+const projects = document.querySelectorAll("#project-card");
+
+projects.forEach(project => {
+  const championnat = project.querySelector(".championnat").textContent.split(" - ")[0].toLowerCase();
+  if(championnat !== championnat_user) {
+    project.style.display = "none";
+  }
+});
+</script>

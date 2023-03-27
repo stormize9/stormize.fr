@@ -1,4 +1,5 @@
-- club: England
+- championnat: Equipe Nationale
+  club: England
   id: '1'
   image: /assets/images/1.jpg
   joueur: Rooney
@@ -8,7 +9,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Argentina
+- championnat: Equipe Nationale
+  club: Argentina
   id: '2'
   image: /assets/images/2.jpg
   joueur: Messi
@@ -18,7 +20,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Argentina
+- championnat: Equipe Nationale
+  club: Argentina
   id: '3'
   image: /assets/images/3.jpg
   joueur: Messi
@@ -28,7 +31,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Argentina
+- championnat: Equipe Nationale
+  club: Argentina
   id: '4'
   image: /assets/images/4.jpg
   joueur: Messi
@@ -38,7 +42,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Allemagne
+- championnat: Equipe Nationale
+  club: Allemagne
   id: '5'
   image: /assets/images/5.jpg
   joueur: Kimmich
@@ -48,7 +53,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '6'
   image: /assets/images/6.jpg
   joueur: Henry
@@ -58,7 +64,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '7'
   image: /assets/images/7.jpg
   joueur: Ribery
@@ -68,7 +75,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '8'
   image: /assets/images/8.jpg
   joueur: Diaby
@@ -78,7 +86,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '9'
   image: /assets/images/9.jpg
   joueur: N/A
@@ -88,7 +97,8 @@
   type: Stock Pro L/S
   vente: Non
   version: Away
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '10'
   image: /assets/images/10.jpg
   joueur: N/A
@@ -98,7 +108,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '11'
   image: /assets/images/11.jpg
   joueur: Pogba
@@ -108,7 +119,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '12'
   image: /assets/images/12.jpg
   joueur: N/A
@@ -118,7 +130,8 @@
   type: Player issue
   vente: Sold
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '13'
   image: /assets/images/13.jpg
   joueur: Varane
@@ -128,7 +141,8 @@
   type: Stock Pro L/S
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '14'
   image: /assets/images/14.jpg
   joueur: Griezmann
@@ -138,7 +152,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '15'
   image: /assets/images/15.jpg
   joueur: N/A
@@ -148,7 +163,8 @@
   type: Replica
   vente: Oui
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '16'
   image: /assets/images/16.jpg
   joueur: Griezmann
@@ -158,7 +174,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '17'
   image: /assets/images/17.jpg
   joueur: "Kant\xE9"
@@ -168,7 +185,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: France
+- championnat: Equipe Nationale
+  club: France
   id: '18'
   image: /assets/images/18.jpg
   joueur: Pogba
@@ -178,7 +196,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Portugal
+- championnat: Equipe Nationale
+  club: Portugal
   id: '19'
   image: /assets/images/19.jpg
   joueur: N/A
@@ -188,7 +207,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '20'
   image: /assets/images/20.jpg
   joueur: Ronaldinho
@@ -198,7 +218,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '21'
   image: /assets/images/21.jpg
   joueur: Puyol
@@ -208,7 +229,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '22'
   image: /assets/images/22.jpg
   joueur: Messi
@@ -218,7 +240,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '23'
   image: /assets/images/23.jpg
   joueur: Messi
@@ -228,7 +251,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '24'
   image: /assets/images/24.jpg
   joueur: Ronaldinho
@@ -238,7 +262,8 @@
   type: Replica
   vente: Nonn
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '25'
   image: /assets/images/25.jpg
   joueur: Messi
@@ -248,7 +273,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '26'
   image: /assets/images/26.jpg
   joueur: Messi
@@ -258,7 +284,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '27'
   image: /assets/images/27.jpg
   joueur: Eto'o
@@ -268,7 +295,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '28'
   image: /assets/images/28.jpg
   joueur: Ibrahimovic
@@ -278,7 +306,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '29'
   image: /assets/images/29.jpg
   joueur: Dani Alves
@@ -288,7 +317,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '30'
   image: /assets/images/30.jpg
   joueur: Messi
@@ -298,7 +328,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '31'
   image: /assets/images/31.jpg
   joueur: Iniesta
@@ -308,7 +339,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '32'
   image: /assets/images/32.jpg
   joueur: N/A
@@ -318,7 +350,8 @@
   type: Replica L/S
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '108'
   image: /assets/images/108.jpg
   joueur: Iniesta
@@ -328,7 +361,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '33'
   image: /assets/images/33.jpg
   joueur: Messi
@@ -338,7 +372,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '34'
   image: /assets/images/34.jpg
   joueur: Alexis
@@ -348,7 +383,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '35'
   image: /assets/images/35.jpg
   joueur: N/A
@@ -358,7 +394,8 @@
   type: Replica
   vente: Sold
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '36'
   image: /assets/images/36.jpg
   joueur: Xavi
@@ -368,7 +405,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '37'
   image: /assets/images/37.jpg
   joueur: Messi
@@ -378,7 +416,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '38'
   image: /assets/images/38.jpg
   joueur: Messi
@@ -388,7 +427,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '39'
   image: /assets/images/39.jpg
   joueur: Neymar
@@ -398,7 +438,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '40'
   image: /assets/images/40.jpg
   joueur: Neymar
@@ -408,7 +449,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '41'
   image: /assets/images/41.jpg
   joueur: Neymar
@@ -418,7 +460,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '42'
   image: /assets/images/42.jpg
   joueur: Neymar
@@ -428,7 +471,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '43'
   image: /assets/images/43.jpg
   joueur: Messi
@@ -438,7 +482,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '44'
   image: /assets/images/44.jpg
   joueur: N/A
@@ -448,7 +493,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '45'
   image: /assets/images/45.jpg
   joueur: Suarez
@@ -458,7 +504,8 @@
   type: Player issue
   vente: Non
   version: Third
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '46'
   image: /assets/images/46.jpg
   joueur: Suarez
@@ -468,7 +515,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '47'
   image: /assets/images/47.jpg
   joueur: N/A
@@ -478,7 +526,8 @@
   type: Replica
   vente: Sold
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '48'
   image: /assets/images/48.jpg
   joueur: Messi
@@ -488,7 +537,8 @@
   type: Player issue
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '49'
   image: /assets/images/49.jpg
   joueur: Neymar
@@ -498,7 +548,8 @@
   type: Player issue
   vente: Non
   version: Third
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '50'
   image: /assets/images/50.jpg
   joueur: N/A
@@ -508,7 +559,8 @@
   type: Player issue
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '51'
   image: /assets/images/51.jpg
   joueur: Iniesta
@@ -518,7 +570,8 @@
   type: Replica
   vente: Oui
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '52'
   image: /assets/images/52.jpg
   joueur: Neymar
@@ -528,7 +581,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '53'
   image: /assets/images/53.jpg
   joueur: N/A
@@ -538,7 +592,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '54'
   image: /assets/images/54.jpg
   joueur: Dembele
@@ -548,7 +603,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '55'
   image: /assets/images/55.jpg
   joueur: N/A
@@ -558,7 +614,8 @@
   type: Replica L/S
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '56'
   image: /assets/images/56.jpg
   joueur: N/A
@@ -568,7 +625,8 @@
   type: Replica
   vente: Non
   version: Third
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '57'
   image: /assets/images/57.jpg
   joueur: Coutinho
@@ -578,7 +636,8 @@
   type: Replica
   vente: Sold
   version: Third
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '58'
   image: /assets/images/58.jpg
   joueur: Messi
@@ -588,7 +647,8 @@
   type: Player issue
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '59'
   image: /assets/images/59.jpg
   joueur: F. De Jong
@@ -598,7 +658,8 @@
   type: Player issue
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '60'
   image: /assets/images/60.jpg
   joueur: F. De Jong
@@ -608,7 +669,8 @@
   type: Replica
   vente: Non
   version: Third
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '61'
   image: /assets/images/61.jpg
   joueur: "Piqu\xE9"
@@ -618,7 +680,8 @@
   type: Replica L/S
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '62'
   image: /assets/images/62.jpg
   joueur: N/A
@@ -628,7 +691,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '63'
   image: /assets/images/63.jpg
   joueur: Messi
@@ -638,7 +702,8 @@
   type: Player issue
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '64'
   image: /assets/images/64.jpg
   joueur: Messi
@@ -648,7 +713,8 @@
   type: Replica
   vente: Non
   version: Third
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '65'
   image: /assets/images/65.jpg
   joueur: N/A
@@ -658,7 +724,8 @@
   type: Replica
   vente: Non
   version: Training
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '66'
   image: /assets/images/66.jpg
   joueur: Messi
@@ -668,7 +735,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '67'
   image: /assets/images/67.jpg
   joueur: Depay
@@ -678,7 +746,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '68'
   image: /assets/images/68.jpg
   joueur: Pedri
@@ -688,7 +757,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '69'
   image: /assets/images/69.jpg
   joueur: Ansu Fati
@@ -698,7 +768,8 @@
   type: Replica
   vente: Non
   version: Third
-- club: Barcelona
+- championnat: Liga
+  club: Barcelona
   id: '70'
   image: /assets/images/70.jpg
   joueur: Gavi
@@ -708,7 +779,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Arsenal
+- championnat: Premier League
+  club: Arsenal
   id: '71'
   image: /assets/images/71.jpg
   joueur: Henry
@@ -718,7 +790,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Arsenal
+- championnat: Premier League
+  club: Arsenal
   id: '72'
   image: /assets/images/72.jpg
   joueur: v. Persie
@@ -728,7 +801,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Arsenal
+- championnat: Premier League
+  club: Arsenal
   id: '73'
   image: /assets/images/73.jpg
   joueur: "Th\xE9o"
@@ -738,7 +812,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Arsenal
+- championnat: Premier League
+  club: Arsenal
   id: '74'
   image: /assets/images/74.jpg
   joueur: Fabregas
@@ -748,7 +823,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Arsenal
+- championnat: Premier League
+  club: Arsenal
   id: '75'
   image: /assets/images/75.jpg
   joueur: S. Cazorla
@@ -758,7 +834,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Liverpool
+- championnat: Premier League
+  club: Liverpool
   id: '76'
   image: /assets/images/76.jpg
   joueur: N/A
@@ -768,7 +845,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Chelsea
+- championnat: Premier League
+  club: Chelsea
   id: '77'
   image: /assets/images/77.jpg
   joueur: N/A
@@ -778,7 +856,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Chelsea
+- championnat: Premier League
+  club: Chelsea
   id: '78'
   image: /assets/images/78.jpg
   joueur: Hazard
@@ -788,7 +867,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Manchester City
+- championnat: Premier League
+  club: Manchester City
   id: '79'
   image: /assets/images/79.jpg
   joueur: N/A
@@ -798,7 +878,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Manchester City
+- championnat: Premier League
+  club: Manchester City
   id: '80'
   image: /assets/images/80.jpg
   joueur: "Yaya Tour\xE9"
@@ -808,7 +889,8 @@
   type: Replica
   vente: Non
   version: Third
-- club: Manchester City
+- championnat: Premier League
+  club: Manchester City
   id: '106'
   image: /assets/images/106.jpg
   joueur: De Bruyne
@@ -818,7 +900,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Manchester United
+- championnat: Premier League
+  club: Manchester United
   id: '81'
   image: /assets/images/81.jpg
   joueur: Ronaldo
@@ -828,7 +911,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Manchester United
+- championnat: Premier League
+  club: Manchester United
   id: '82'
   image: /assets/images/82.jpg
   joueur: Ronaldo
@@ -838,7 +922,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Manchester United
+- championnat: Premier League
+  club: Manchester United
   id: '83'
   image: /assets/images/83.jpg
   joueur: N/A
@@ -848,7 +933,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Manchester United
+- championnat: Premier League
+  club: Manchester United
   id: '84'
   image: /assets/images/84.jpg
   joueur: N/A
@@ -858,7 +944,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Manchester United
+- championnat: Premier League
+  club: Manchester United
   id: '85'
   image: /assets/images/85.jpg
   joueur: Pogba
@@ -868,7 +955,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Manchester United
+- championnat: Premier League
+  club: Manchester United
   id: '86'
   image: /assets/images/86.jpg
   joueur: Ibrahimovic
@@ -878,7 +966,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Manchester United
+- championnat: Premier League
+  club: Manchester United
   id: '87'
   image: /assets/images/87.jpg
   joueur: Pogba
@@ -888,7 +977,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Lyon
+- championnat: Ligue 1
+  club: Lyon
   id: '88'
   image: /assets/images/88.jpg
   joueur: N/A
@@ -898,7 +988,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Caen
+- championnat: Ligue 1
+  club: Caen
   id: '89'
   image: /assets/images/89.jpg
   joueur: N/A
@@ -908,7 +999,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Caen
+- championnat: Ligue 1
+  club: Caen
   id: '90'
   image: /assets/images/90.jpg
   joueur: N/A
@@ -918,7 +1010,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: AJ Auxerre
+- championnat: Ligue 1
+  club: AJ Auxerre
   id: '91'
   image: /assets/images/91.jpg
   joueur: N/A
@@ -928,7 +1021,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: AS Monaco
+- championnat: Ligue 1
+  club: AS Monaco
   id: '107'
   image: /assets/images/107.jpg
   joueur: Bernardo
@@ -938,7 +1032,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: AS Monaco
+- championnat: Ligue 1
+  club: AS Monaco
   id: '92'
   image: /assets/images/92.jpg
   joueur: "Tchouam\xE9ni"
@@ -948,7 +1043,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Bayern Munich
+- championnat: Bundesliga
+  club: Bayern Munich
   id: '93'
   image: /assets/images/93.jpg
   joueur: N/A
@@ -958,7 +1054,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Bayern Munich
+- championnat: Bundesliga
+  club: Bayern Munich
   id: '94'
   image: /assets/images/94.jpg
   joueur: Ribery
@@ -968,7 +1065,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Bayern Munich
+- championnat: Bundesliga
+  club: Bayern Munich
   id: '95'
   image: /assets/images/95.jpg
   joueur: Robben
@@ -978,7 +1076,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Bayern Munich
+- championnat: Bundesliga
+  club: Bayern Munich
   id: '96'
   image: /assets/images/96.jpg
   joueur: Lewandowski
@@ -988,7 +1087,8 @@
   type: Player issue
   vente: Non
   version: Third
-- club: Bayern Munich
+- championnat: Bundesliga
+  club: Bayern Munich
   id: '105'
   image: /assets/images/105.jpg
   joueur: N/A
@@ -998,7 +1098,8 @@
   type: Replica
   vente: Non
   version: Away
-- club: Dortmund
+- championnat: Bundesliga
+  club: Dortmund
   id: '97'
   image: /assets/images/97.jpg
   joueur: N/A
@@ -1008,7 +1109,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Milan AC
+- championnat: 'Serie A '
+  club: Milan AC
   id: '98'
   image: /assets/images/98.jpg
   joueur: Kaka
@@ -1018,7 +1120,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Milan AC
+- championnat: 'Serie A '
+  club: Milan AC
   id: '99'
   image: /assets/images/99.jpg
   joueur: Robinho
@@ -1028,7 +1131,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Juventus de Turin
+- championnat: 'Serie A '
+  club: Juventus de Turin
   id: '100'
   image: /assets/images/100.jpg
   joueur: N/A
@@ -1038,7 +1142,8 @@
   type: Replica
   vente: Sold
   version: Home
-- club: Juventus de Turin
+- championnat: 'Serie A '
+  club: Juventus de Turin
   id: '101'
   image: /assets/images/101.jpg
   joueur: Dybala
@@ -1048,7 +1153,8 @@
   type: Replica
   vente: Non
   version: Third
-- club: Juventus de Turin
+- championnat: 'Serie A '
+  club: Juventus de Turin
   id: '102'
   image: /assets/images/102.jpg
   joueur: De Ligt
@@ -1058,7 +1164,8 @@
   type: Replica
   vente: Sold
   version: Away
-- club: Ajax Amsterdam
+- championnat: Eredevise
+  club: Ajax Amsterdam
   id: '103'
   image: /assets/images/103.jpg
   joueur: N/A
@@ -1068,7 +1175,8 @@
   type: Replica
   vente: Non
   version: Home
-- club: Olympiakos
+- championnat: Hellas Liga
+  club: Olympiakos
   id: '104'
   image: /assets/images/104.jpg
   joueur: M'Villa

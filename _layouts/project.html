@@ -22,7 +22,20 @@ layout: compress
                         <i class="fa-light fa-shirt"></i>
                         <p class=" is-uppercase has-text-grey">{{ site.data.projects | size }} shirts</p>
                     </p>
+
+                        <ul class="navbar-test">
+                            <li><a href="/mykits">all</a></li>
+                          {% assign unique_championnat = '' | split: ',' %}
+                          {% for project in site.data.projects %}
+                            {% unless unique_championnat contains project.championnat %}
+                              {% assign unique_championnat = unique_championnat | push: project.championnat %}
+                              <li><a href="?championnat={{project.championnat}}">{{project.championnat}}</a></li>
+                            {% endunless %}
+                          {% endfor %}
+                        </ul>
+                    
                 </div>
+                
                 {% include project-card.html %}
             </div>
         </div>
