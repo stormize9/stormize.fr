@@ -1,0 +1,5 @@
+# Définir l'expiration du cache pour les fichiers statiques
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 month"
+</IfModule>
