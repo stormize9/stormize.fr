@@ -22,6 +22,7 @@
           </div>
           <div class="card-content" style="padding:12px;">
             <p class="championnat has-text-black has-text-weight-light" style="display:none;">{{ project.championnat }}</p>
+            <p class="club has-text-black has-text-weight-light" style="display:none;">{{ project.club }}</p>
             <p class="club has-text-black has-text-weight-light" style="margin-bottom:0.4rem;">{{ project.club}} - {{ project.saison}} </p>          
             <p class="has-text-black has-text-weight-light">{% if project.joueur != 'N/A' %} {{ project.joueur}} {% else %} No player {% endif %}</p>
             <p class="has-text-black has-text-weight-light">{{ project.version }} - {{ project.type }}</p>
@@ -50,14 +51,31 @@
       }
       return false;
   };
-  var championnat_user = getUrlParameter('championnat').toLowerCase();
 
+  
+const urlParams = new URLSearchParams(window.location.search);
 const projects = document.querySelectorAll("#project-card");
+
 
 projects.forEach(project => {
   const championnat = project.querySelector(".championnat").textContent.split(" - ")[0].toLowerCase();
-  if(championnat !== championnat_user) {
+  const club = project.querySelector(".club").textContent.split(" - ")[0].toLowerCase();
+
+  if (urlParams.has('club')) {
+    let club_user = getUrlParameter('club').toLowerCase();
+    if(club !== club_user) {
     project.style.display = "none";
+    }
+  }
+  if (urlParams.has('championnat')) {
+    let championnat_user = getUrlParameter('championnat').toLowerCase();
+    if(championnat !== championnat_user) {
+      project.style.display = "none";
+    }
   }
 });
+
+
+
+
 </script>
