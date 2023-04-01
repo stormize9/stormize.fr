@@ -1,11 +1,35 @@
 ---
 layout: compress
 ---
+<style>
+    .filter {
+    display:none;
+  }
 
+  .champ {
+    flex: 2.5;
+  }
+
+  .size {
+    flex: 1;
+    align-self: center;
+  }
+
+
+  
+  .image_filter {
+  margin-top: 25px;
+  opacity: 0.3;
+  text-align: center;
+}
+
+
+</style>
 <!DOCTYPE html>
 <html>
 
 <head>
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     {% include head.html %}
 </head>
 
@@ -23,17 +47,47 @@ layout: compress
                         <i class="fa-light fa-shirt"></i>
                         <p class=" is-uppercase has-text-grey">{{ site.data.projects | size }} shirts</p>
                     </p>
-
-                        <ul class="navbar-test">
+                    <button type="button" class="btn btn-dark"  onclick="swap()">Filter</button>
+                    <div class="image_filter ">
+                        <p id="champ_text" class="subtitle is-uppercase has-text-weight-medium has-text-grey is-centered">ALL SHIRTS</p>
+                    </div>
+                    
+                    <div class="filter" id="filter">
+                        <div class="champ">
+                          <ul class="navbar-test">
                             <li><a href="/mykits">all</a></li>
-                          {% assign unique_championnat = '' | split: ',' %}
-                          {% for project in site.data.projects %}
-                            {% unless unique_championnat contains project.championnat %}
-                              {% assign unique_championnat = unique_championnat | push: project.championnat %}
-                              <li><a href="?championnat={{project.championnat}}">{{project.championnat}}</a></li>
-                            {% endunless %}
-                          {% endfor %}
-                        </ul>
+                            {% assign unique_championnat = '' | split: ',' %}
+                            {% for project in site.data.projects %}
+                              {% unless unique_championnat contains project.championnat %}
+                                {% assign unique_championnat = unique_championnat | push: project.championnat %}
+                                <li><a href="?championnat={{project.championnat}}">{{project.championnat}}</a></li>
+                              {% endunless %}
+                            {% endfor %}
+                          </ul>
+                        </div>
+                        <div class="size">
+                          <h1>Taille</h1>
+                          <form>
+                            <div class="toggle-group">
+                              <label for="S">S</label>
+                              <input type="checkbox" id="S" name="taille" value="S" class="toggle">
+                            </div>
+                            <div class="toggle-group">
+                              <label for="M">M</label>
+                              <input type="checkbox" id="M" name="taille" value="M" class="toggle">
+                            </div>
+                            <div class="toggle-group">
+                              <label for="L">L</label>
+                              <input type="checkbox" id="L" name="taille" value="L" class="toggle">
+                            </div>  
+                            <div class="toggle-group">
+                              <label for="XL">XL</label>
+                              <input type="checkbox" id="XL" name="taille" value="XL" class="toggle">
+                            </div>
+                            <input type="button" class="btn btn-dark" value="Valider" onclick="recupererTailles()">
+                          </form>
+                        </div>
+                      </div>
                     
                 </div>
                 
@@ -50,3 +104,31 @@ layout: compress
 
 
 </html>
+
+
+<script>
+    if (urlParams.has('championnat')) {
+        let championnat_user = getUrlParameter('championnat');
+        console.log(championnat_user);
+        var champ_text = document.getElementById("champ_text");
+        champ_text.textContent = championnat_user;
+    }
+
+
+    function toggleFilter() {
+      var x = document.getElementById("filter");
+      x.classList.toggle("show");
+    }
+    function swap() {
+        var image = document.getElementById("champ_text");
+        var div = document.getElementById("filter");
+        if (image.style.display === "none") {
+            image.style.display = "block";
+            div.style.display = "none";
+        } else {
+            image.style.display = "none";
+            div.style.display = "flex";
+        }
+        }
+
+</script>
