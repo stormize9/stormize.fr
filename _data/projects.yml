@@ -102,7 +102,7 @@
   id: '9'
   image: /assets/images/9.jpg
   joueur: N/A
-  marque: Adidas
+  marque: Nike
   saison: 2011/12
   taille: L
   type: Stock Pro L/S
@@ -178,7 +178,7 @@
   club: France
   id: '15'
   image: /assets/images/15.jpg
-  joueur: N/A
+  joueur: Pogba
   marque: Nike
   saison: 2018/19
   taille: XL
@@ -513,7 +513,7 @@
   saison: 2014/15
   taille: M
   type: Replica
-  vente: Oui
+  vente: Sold
   version: Home
 - championnat: Liga
   club: Barcelona
@@ -601,7 +601,18 @@
   saison: 2016/17
   taille: L
   type: Replica
-  vente: Oui
+  vente: Sold
+  version: Home
+- championnat: Liga
+  club: Barcelona
+  id: '112'
+  image: /assets/images/112.jpg
+  joueur: Iniesta
+  marque: Nike
+  saison: 2016/17
+  taille: L
+  type: Replica
+  vente: Non
   version: Home
 - championnat: Liga
   club: Barcelona
@@ -618,7 +629,7 @@
   club: Barcelona
   id: '53'
   image: /assets/images/53.jpg
-  joueur: N/A
+  joueur: Suarez
   marque: Nike
   saison: 2017/18
   taille: M

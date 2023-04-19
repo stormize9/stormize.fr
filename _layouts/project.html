@@ -15,7 +15,6 @@ layout: compress
     align-self: center;
   }
 
-
   
   .image_filter {
   margin-top: 25px;
@@ -55,19 +54,19 @@ layout: compress
                     <div class="filter" id="filter">
                         <div class="champ">
                           <ul class="navbar-test">
-                            <li><a href="/mykits">all</a></li>
+                            <li><a style="text-decoration: none;" href="/mykits">all</a></li>
                             {% assign unique_championnat = '' | split: ',' %}
                             {% for project in site.data.projects %}
                               {% unless unique_championnat contains project.championnat %}
                                 {% assign unique_championnat = unique_championnat | push: project.championnat %}
-                                <li><a href="?championnat={{project.championnat}}">{{project.championnat}}</a></li>
+                                <li><a style="text-decoration: none;" href="?championnat={{project.championnat}}">{{project.championnat}}</a></li>
                               {% endunless %}
                             {% endfor %}
                           </ul>
                         </div>
                         <div class="size">
-                          <h1>Taille</h1>
                           <form>
+                            <h1>Size</h1>
                             <div class="toggle-group">
                               <label for="S">S</label>
                               <input type="checkbox" id="S" name="taille" value="S" class="toggle">

@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "main.scss";
 
 @import url(https://fonts.googleapis.com/css?family=Lato);
@@ -403,7 +402,6 @@ a.navbar-item.is-active {
         font-size: 0.85rem;
 
         a {
-            text-decoration: underline;
             font-weight: bolder;
             color: white;
         }
@@ -443,9 +441,7 @@ a.navbar-item.is-active {
     @media (min-width: 768px) {
         margin: auto 2.5vmax;
     }
-    a {
-        text-decoration: underline;
-    }
+
     #title {
         text-decoration: none;
     }
