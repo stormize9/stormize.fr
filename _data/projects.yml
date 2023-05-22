@@ -66,6 +66,17 @@
   version: Home
 - championnat: Equipe Nationale
   club: France
+  id: '113'
+  image: /assets/images/113.jpg
+  joueur: N/A
+  marque: Adidas
+  saison: 1996/97
+  taille: L
+  type: Replica
+  vente: Non
+  version: Home
+- championnat: Equipe Nationale
+  club: France
   id: '6'
   image: /assets/images/6.jpg
   joueur: Henry
@@ -365,10 +376,10 @@
   club: Barcelona
   id: '32'
   image: /assets/images/32.jpg
-  joueur: N/A
+  joueur: David Villa
   marque: Nike
   saison: 2010/11
-  taille: L
+  taille: M
   type: Replica L/S
   vente: Non
   version: Away
@@ -572,6 +583,17 @@
   version: Away
 - championnat: Liga
   club: Barcelona
+  id: '114'
+  image: /assets/images/114.jpg
+  joueur: N/A
+  marque: Nike
+  saison: 2015/16
+  taille: M
+  type: Player issue
+  vente: Oui
+  version: Away
+- championnat: Liga
+  club: Barcelona
   id: '49'
   image: /assets/images/49.jpg
   joueur: Neymar
@@ -691,6 +713,17 @@
   type: Player issue
   vente: Non
   version: Home
+- championnat: Liga
+  club: Barcelona
+  id: '115'
+  image: /assets/images/115.jpg
+  joueur: Messi
+  marque: Nike
+  saison: 2019/22
+  taille: M
+  type: Player issue
+  vente: Non
+  version: Fourth
 - championnat: Liga
   club: Barcelona
   id: '59'
@@ -865,7 +898,7 @@
   saison: 2010/11
   taille: M
   type: Replica
-  vente: Non
+  vente: Sold
   version: Home
 - championnat: Premier League
   club: Arsenal
@@ -886,6 +919,17 @@
   marque: Adidas
   saison: 2008/09
   taille: 12yo
+  type: Replica
+  vente: Non
+  version: Away
+- championnat: Premier League
+  club: Liverpool
+  id: '116'
+  image: /assets/images/116.jpg
+  joueur: Salah
+  marque: Nike
+  saison: 2021/22
+  taille: M
   type: Replica
   vente: Non
   version: Away
