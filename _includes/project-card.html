@@ -14,10 +14,10 @@
           <div style="position:relative;">
             <img src="/assets/images/{{project.id}}.webp" alt="{{ project.club }}" class="project-image">
             <img src="/assets/images/{{project.id}}b.webp" alt="{{ project.club }}" class="project-hover-image">
-            {% if project.vente == "Sold" %}
+            {% if project.a_vendre == "Sold" %}
               <div class="sold-label"><p class=" is-uppercase has-text-weight-medium has-text-grey">SOLD</p></div>
             {% endif %}          
-            {% if project.vente == "Oui" %}
+            {% if project.a_vendre == "Oui" %}
               <div class="sell-label"><p class="is-uppercase has-text-weight-medium has-text-grey">FOR SALE</p></div>
             {% endif %}
           </div>
@@ -26,9 +26,11 @@
             <p class="club has-text-black has-text-weight-light" style="display:none;">{{ project.club }}</p>
             <p class="taille has-text-black has-text-weight-light" style="display:none;">{{ project.taille }}</p>
             <p class="club has-text-black has-text-weight-light" style="margin-bottom:0.4rem;">{{ project.club}} - {{ project.saison}} </p>          
-            <p class="has-text-black has-text-weight-light">{% if project.joueur != 'N/A' %} {{ project.joueur}} {% else %} No player {% endif %}</p>
-            <p class="has-text-black has-text-weight-light">{{ project.version }} - {{ project.type }}</p>
-            <p class="has-text-black has-text-weight-light">{{ project.marque }} ({{ project.taille }}) </p>
+            <p class="has-text-black has-text-weight-light">{% if project.joueur != 'N/A' %} {{ project.joueur}} {%else%} Non floqué{% endif %}</p>
+            <p class="has-text-black has-text-weight-light">{{ project.version }} - {{ project.type }} ({{ project.taille }})</p>
+            <p class="has-text-black has-text-weight-light">{% if project.joueur != 'N/A' %} Flocage : {{ project.etat_flocage}}/10 {%else%} <p></p>{% endif %}</p>
+            <p class="has-text-black has-text-weight-light">Maillot : {{ project.etat_maillot}}/10</p>
+            <p class="has-text-black has-text-weight-light">{% if project.joueur == 'N/A' %}<br> {%endif%}</p>
           </div>
         </div>
       </div>
