@@ -1,11 +1,63 @@
 - a_vendre: Non
+  championnat: Equipe Nationale
+  club: France
+  etat_flocage: '10'
+  etat_maillot: '10'
+  id: '121'
+  image: /assets/images/121.jpg
+  joueur: Giroud
+  marque: Nike
+  saison: 2022/23
+  taille: M
+  type: Home
+  version: Replca
+- a_vendre: Non
+  championnat: Liga
+  club: Barcelona
+  etat_flocage: None
+  etat_maillot: '9.5'
+  id: '120'
+  image: /assets/images/120.jpg
+  joueur: N/A
+  marque: Nike
+  saison: 2022/23
+  taille: L
+  type: Fourth
+  version: Replica
+- a_vendre: Non
+  championnat: Liga
+  club: Barcelona
+  etat_flocage: None
+  etat_maillot: '10'
+  id: '119'
+  image: /assets/images/119.jpg
+  joueur: N/A
+  marque: Nike
+  saison: 2022/23
+  taille: L
+  type: Third
+  version: Replica
+- a_vendre: Non
+  championnat: Liga
+  club: Barcelona
+  etat_flocage: '10'
+  etat_maillot: '10'
+  id: '118'
+  image: /assets/images/118.jpg
+  joueur: Pedri
+  marque: Nike
+  saison: 2022/23
+  taille: L
+  type: Home
+  version: Replica
+- a_vendre: Non
   championnat: Premier League
   club: Manchester City
-  etat_flocage: None
+  etat_flocage: '10'
   etat_maillot: '10'
   id: '117'
   image: /assets/images/117.jpg
-  joueur: N/A
+  joueur: Gundogan
   marque: Puma
   saison: 2022/23
   taille: L
