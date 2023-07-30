@@ -1,14 +1,16 @@
 <div class="container mt-4">
     <!-- Bouton pour activer le dropdown -->
     <div class="dropdown">
-      <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true">
-        Small button
+      <button class="btn btn-dark btn-sm dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true">
+        Kits calendar
       </button>
       <!-- Contenu du dropdown -->
       <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-        <li><a class="dropdown-item" href="#">Option 1</a></li>
-        <li><a class="dropdown-item" href="#">Option 2</a></li>
-        <li><a class="dropdown-item" href="#">Option 3</a></li>
+        {% for page in site.pages %}
+        {% unless page.title == 404 or page.title == "mykits" or page.title ==  %}
+          <li><a class="dropdown-item" href="{{ page.var }}">{{ page.title }}</a></li>
+        {% endunless %}
+      {% endfor %}
         <!-- Vous pouvez ajouter d'autres options ici -->
       </ul>
     </div>
