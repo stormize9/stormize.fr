@@ -2,9 +2,14 @@
   date: 27/07/2023
   maillot: Away
   match: Arsenal 5-3 Barcelone
-  mvp: Bukayo Saka
+  mvp: B. Saka
 - competition: Match amical
   date: 29/07/2023
   maillot: Home
   match: Barcelone 3-0 Real Madrid
-  mvp: Ter Stegen
+  mvp: M. Ter Stegen
+- competition: Match amical
+  date: 29/07/2023
+  maillot: Fourth
+  match: Barcelone 3-0 Real Madrid
+  mvp: M. Ter Stegen

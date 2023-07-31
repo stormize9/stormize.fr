@@ -1,6 +1,11 @@
 - competition: Match amical
+  date: 20/07/2023
+  maillot: away
+  match: Arsenal 0-2 Man. United
+  mvp: J. Sancho
+- competition: Match amical
   date: 27/07/2023
   maillot: home
   match: Arsenal 5-3 Barcelone
-  mvp: Saka
+  mvp: B. Saka
 

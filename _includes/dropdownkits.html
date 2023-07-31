@@ -8,7 +8,7 @@
       <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
         {% for page in site.pages %}
         {% unless page.title == 404 or page.title == "mykits" or page.title ==  %}
-          <li><a class="dropdown-item" href="{{ page.var }}">{{ page.title }}</a></li>
+          <li><a class="dropdown-item" href="/mykits/{{ page.var }}">{{ page.title }}</a></li>
         {% endunless %}
       {% endfor %}
         <!-- Vous pouvez ajouter d'autres options ici -->
