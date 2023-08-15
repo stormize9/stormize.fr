@@ -1,16 +1,16 @@
 - competition: Match amical
   date: 20/07/2023
-  maillot: away
+  maillot: Away
   match: Arsenal 0-2 Man. United
   mvp: J. Sancho
 - competition: Match amical
   date: 27/07/2023
-  maillot: home
+  maillot: Home
   match: Arsenal 5-3 Barcelone
   mvp: B. Saka
 - competition: Community Shield
   date: 06/08/2023
-  maillot: home
+  maillot: Home
   match: Arsenal 1-1 Manchester City
   mvp: M. Odegaard
 - competition: Premier League
