@@ -1,1586 +1,2604 @@
 - a_vendre: Non
+  achat: '100'
+  championnat: Liga
+  club: Barcelona
+  data_achat: 09/2023
+  estimation: '90'
+  etat_flocage: '8'
+  etat_maillot: '9'
+  floque: Oui
+  id: '124'
+  joueur: Iniesta
+  marque: Nike
+  numero: '#8'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2008/09
+  taille: M
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "30 \u20AC"
+  championnat: Eredevise
+  club: Ajax Amsterdam
+  data_achat: 09/2023
+  estimation: "50 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: '9'
+  floque: N/A
+  id: '123'
+  joueur: N/A
+  marque: Adidas
+  numero: N/A
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2022/23
+  taille: M
+  type: Third
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "65 \u20AC"
   championnat: Equipe Nationale
   club: France
+  data_achat: 08-2023
+  estimation: "90 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '122'
-  image: /assets/images/122.jpg
   joueur: "Tchouam\xE9ni"
   marque: Nike
+  numero: '#8'
+  patch: Nation/UEFA
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2022/23
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "45 \u20AC"
   championnat: Equipe Nationale
   club: France
+  data_achat: 07-2023
+  estimation: "50 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '121'
-  image: /assets/images/121.jpg
   joueur: Giroud
   marque: Nike
+  numero: '#9'
+  patch: WC
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2022/23
   taille: M
   type: Home
+  vendu: Non
   version: Replca
 - a_vendre: Non
+  achat: "30 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: None
-  etat_maillot: '9.5'
+  data_achat: 07-2023
+  estimation: "40 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: 9,5
+  floque: N/A
   id: '120'
-  image: /assets/images/120.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2022/23
   taille: L
   type: Fourth
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "30 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: None
+  data_achat: 07-2023
+  estimation: "45 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '10'
+  floque: N/A
   id: '119'
-  image: /assets/images/119.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2022/23
   taille: L
   type: Third
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "60 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 07-2023
+  estimation: "90 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '118'
-  image: /assets/images/118.jpg
   joueur: Pedri
   marque: Nike
+  numero: '#8'
+  patch: Supcopa
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2022/23
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "130 \u20AC"
   championnat: Premier League
   club: Manchester City
+  data_achat: 06-2023
+  estimation: "100 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '117'
-  image: /assets/images/117.jpg
   joueur: Gundogan
   marque: Puma
+  numero: '#8'
+  patch: LDC
+  plateforme: Manchester City Store
+  prix_de_vente: N/A
   saison: 2022/23
   taille: L
   type: Home
+  vendu: Non
   version: Replica L/S
 - a_vendre: Non
+  achat: "56 \u20AC"
   championnat: Premier League
   club: Liverpool
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 05-2023
+  estimation: "75 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '116'
-  image: /assets/images/116.jpg
   joueur: Salah
   marque: Nike
+  numero: '#11'
+  patch: PL
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2021/22
   taille: M
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "71 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 05-2023
+  estimation: "110 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '115'
-  image: /assets/images/115.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2019/22
   taille: M
   type: Fourth
+  vendu: Non
   version: Player issue
 - a_vendre: Oui
+  achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 04-2023
+  estimation: "80 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '114'
-  image: /assets/images/114.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: "80\u20AC"
   saison: 2015/16
   taille: M
   type: Away
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: "150 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: None
-  etat_maillot: '9.5'
+  data_achat: 04-2023
+  estimation: "150 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: 9,5
+  floque: N/A
   id: '113'
-  image: /assets/images/113.jpg
   joueur: N/A
   marque: Adidas
+  numero: N/A
+  patch: N/A
+  plateforme: Vintage Football Area
+  prix_de_vente: N/A
   saison: 1996/97
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "72 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 04-2023
+  estimation: "85 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '112'
-  image: /assets/images/112.jpg
   joueur: Iniesta
   marque: Nike
+  numero: '#8'
+  patch: Liga
+  plateforme: Classic Football Shirts
+  prix_de_vente: N/A
   saison: 2016/17
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "25 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: None
+  data_achat: 03-2023
+  estimation: "50 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '10'
+  floque: N/A
   id: '111'
-  image: /assets/images/111.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2012/13
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 03-2023
+  estimation: "60 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
+  floque: Oui
   id: '110'
-  image: /assets/images/110.jpg
   joueur: Neymar
   marque: Nike
+  numero: '#11'
+  patch: Liga
+  plateforme: Leboncoin
+  prix_de_vente: "60\u20AC"
   saison: 2014/15
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "105 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
+  data_achat: 03-2023
+  estimation: "100 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '109'
-  image: /assets/images/109.jpg
   joueur: Messi
   marque: Adidas
+  numero: '#10'
+  patch: WC Win
+  plateforme: Subside Sports
+  prix_de_vente: N/A
   saison: 2022/23
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "53 \u20AC"
   championnat: Ligue 1
   club: AS Monaco
+  data_achat: 03-2023
+  estimation: "80 \u20AC"
   etat_flocage: '9'
-  etat_maillot: '9.5'
+  etat_maillot: 9,5
+  floque: Oui
   id: '107'
-  image: /assets/images/107.jpg
   joueur: Bernardo
   marque: Nike
+  numero: '#10'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2015/16
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "35 \u20AC"
   championnat: Premier League
   club: Manchester City
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 03-2023
+  estimation: "80 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '106'
-  image: /assets/images/106.jpg
   joueur: De Bruyne
   marque: Nike
+  numero: '#17'
+  patch: PL
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2015/16
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "150 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
+  data_achat: 03-2023
+  estimation: "150 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '22'
-  image: /assets/images/22.jpg
   joueur: Messi
   marque: Nike
+  numero: '#30'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2005/06
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 02-2023
+  estimation: "80 \u20AC"
   etat_flocage: '7'
   etat_maillot: '9'
+  floque: Oui
   id: '108'
-  image: /assets/images/108.jpg
   joueur: Iniesta
   marque: Nike
+  numero: '#8'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2010/11
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "27 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
-  etat_flocage: None
+  data_achat: 02-2023
+  estimation: "40 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '10'
+  floque: N/A
   id: '105'
-  image: /assets/images/105.jpg
   joueur: N/A
   marque: Adidas
+  numero: N/A
+  patch: N/A
+  plateforme: ABOUT YOU
+  prix_de_vente: N/A
   saison: 2022/23
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 02-2023
+  estimation: "100 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '32'
-  image: /assets/images/32.jpg
   joueur: David Villa
   marque: Nike
+  numero: '#7'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2010/11
   taille: M
   type: Away
+  vendu: Non
   version: Replica L/S
 - a_vendre: Non
+  achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 01-2023
+  estimation: "85 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '70'
-  image: /assets/images/70.jpg
   joueur: Gavi
   marque: Nike
+  numero: '#30'
+  patch: Liga
+  plateforme: Nike
+  prix_de_vente: N/A
   saison: 2022/23
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "120 \u20AC"
   championnat: Premier League
   club: Arsenal
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 12-2022
+  estimation: "110 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '72'
-  image: /assets/images/72.jpg
   joueur: v. Persie
   marque: Nike
+  numero: '#11'
+  patch: PL
+  plateforme: Vintage Velti Football
+  prix_de_vente: N/A
   saison: 2004/05
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "24 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 09-2022
+  estimation: "60 \u20AC"
   etat_flocage: '9'
-  etat_maillot: '9.5'
+  etat_maillot: 9,5
+  floque: Oui
   id: '41'
-  image: /assets/images/41.jpg
   joueur: Neymar
   marque: Nike
+  numero: '#11'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2013/14
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Hellas Liga
   club: Olympiakos
+  data_achat: 08-2022
+  estimation: "50 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '104'
-  image: /assets/images/104.jpg
   joueur: M'Villa
   marque: Adidas
+  numero: '#6'
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2022/23
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "70 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
+  data_achat: 08-2022
+  estimation: "90 \u20AC"
   etat_flocage: '10'
   etat_maillot: '9'
+  floque: Oui
   id: '95'
-  image: /assets/images/95.jpg
   joueur: Robben
   marque: Adidas
+  numero: '#10'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2014/15
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 08-2022
+  estimation: "100 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '66'
-  image: /assets/images/66.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2020/21
   taille: M
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "55 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '8.5'
-  etat_maillot: '9.5'
+  data_achat: 08-2022
+  estimation: "70 \u20AC"
+  etat_flocage: 8,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '38'
-  image: /assets/images/38.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga + 3
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2012/13
   taille: M
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "130 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
+  data_achat: 08-2022
+  estimation: "110 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '23'
-  image: /assets/images/23.jpg
   joueur: Messi
   marque: Nike
+  numero: '#30'
+  patch: Liga
+  plateforme: Vintage Football Area
+  prix_de_vente: N/A
   saison: 2005/06
   taille: M
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "120 \u20AC"
   championnat: Premier League
   club: Manchester United
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 07-2022
+  estimation: "120 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '81'
-  image: /assets/images/81.jpg
   joueur: Ronaldo
   marque: Nike
+  numero: '#7'
+  patch: PL
+  plateforme: Vintage Velti Football
+  prix_de_vente: N/A
   saison: 2003/04
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "60 \u20AC"
   championnat: Ligue 1
   club: AS Monaco
+  data_achat: 06-2022
+  estimation: "100 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '92'
-  image: /assets/images/92.jpg
   joueur: "Tchouam\xE9ni"
   marque: Kappa
+  numero: '#8'
+  patch: N/A
+  plateforme: Monaco Store
+  prix_de_vente: N/A
   saison: 2021/22
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 06-2022
+  estimation: "60 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '61'
-  image: /assets/images/61.jpg
   joueur: "Piqu\xE9"
   marque: Nike
+  numero: '#3'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2019/20
   taille: M
   type: Home
+  vendu: Non
   version: Replica L/S
 - a_vendre: Non
+  achat: "60 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 06-2022
+  estimation: "130 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '45'
-  image: /assets/images/45.jpg
   joueur: Suarez
   marque: Nike
+  numero: '#9'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2014/15
   taille: M
   type: Third
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: "25 \u20AC"
   championnat: Premier League
   club: Manchester United
-  etat_flocage: '9.5'
+  data_achat: 05-2022
+  estimation: "50 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '87'
-  image: /assets/images/87.jpg
   joueur: Pogba
   marque: Adidas
+  numero: '#6'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2019/20
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "35 \u20AC"
   championnat: Premier League
   club: Chelsea
+  data_achat: 05-2022
+  estimation: "70 \u20AC"
   etat_flocage: '9'
-  etat_maillot: '9.5'
+  etat_maillot: 9,5
+  floque: Oui
   id: '78'
-  image: /assets/images/78.jpg
   joueur: Hazard
   marque: Adidas
+  numero: '#17'
+  patch: PL
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2012/13
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "55 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 05-2022
+  estimation: "60 \u20AC"
   etat_flocage: '8'
-  etat_maillot: '9.5'
+  etat_maillot: 9,5
+  floque: Oui
   id: '51'
-  image: /assets/images/51.jpg
   joueur: Iniesta
   marque: Nike
+  numero: '#8'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "60\u20AC"
   saison: 2016/17
   taille: L
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Sold
-  championnat: 'Serie A '
+  achat: "21 \u20AC"
+  championnat: Serie A
   club: Juventus de Turin
-  etat_flocage: '9.5'
+  data_achat: 04-2022
+  estimation: "40 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '102'
-  image: /assets/images/102.jpg
   joueur: De Ligt
   marque: Adidas
+  numero: '#4'
+  patch: Serie A
+  plateforme: Vinted
+  prix_de_vente: "40\u20AC"
   saison: 2019/20
   taille: M
   type: Away
+  vendu: Oui
   version: Replica
 - a_vendre: Sold
+  achat: "13 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 04-2022
+  estimation: "45 \u20AC"
   etat_flocage: '8'
   etat_maillot: '9'
+  floque: Oui
   id: '39'
-  image: /assets/images/39.jpg
   joueur: Neymar
   marque: Nike
+  numero: '#11'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "45\u20AC"
   saison: 2013/14
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 04-2022
+  estimation: "70 \u20AC"
   etat_flocage: '9'
-  etat_maillot: '9.5'
+  etat_maillot: 9,5
+  floque: Oui
   id: '36'
-  image: /assets/images/36.jpg
   joueur: Xavi
   marque: Nike
+  numero: '#6'
+  patch: WC + Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2012/13
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "40 \u20AC"
   championnat: Equipe Nationale
   club: France
+  data_achat: 04-2022
+  estimation: "90 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '17'
-  image: /assets/images/17.jpg
   joueur: "Kant\xE9"
   marque: Nike
+  numero: '#13'
+  patch: WC
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2018/19
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
+  data_achat: 04-2022
+  estimation: "90 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '16'
-  image: /assets/images/16.jpg
   joueur: Griezmann
   marque: Nike
+  numero: '#7'
+  patch: WC
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2018/19
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "85 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: '9.5'
+  data_achat: 04-2022
+  estimation: "100 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '6'
-  image: /assets/images/6.jpg
   joueur: Henry
   marque: Adidas
+  numero: '#14'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2006/07
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "100 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
+  data_achat: 04-2022
+  estimation: "120 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '4'
-  image: /assets/images/4.jpg
   joueur: Messi
   marque: Adidas
+  numero: '#10'
+  patch: N/A
+  plateforme: Classic Football Shirts
+  prix_de_vente: N/A
   saison: 2021/22
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Nonn
+  achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '8.5'
+  data_achat: 03-2022
+  estimation: "100 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 8,5
+  floque: Oui
   id: '24'
-  image: /assets/images/24.jpg
   joueur: Ronaldinho
   marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2006/07
   taille: M
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "25 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
+  data_achat: 03-2022
+  estimation: "46 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
+  floque: Oui
   id: '2'
-  image: /assets/images/2.jpg
   joueur: Messi
   marque: Adidas
+  numero: '#10'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: "46\u20AC"
   saison: 2009/10
   taille: L
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 02-2022
+  estimation: "100 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '64'
-  image: /assets/images/64.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: CL
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2020/21
   taille: L
   type: Third
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 02-2022
+  estimation: "50 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
+  floque: Oui
   id: '57'
-  image: /assets/images/57.jpg
   joueur: Coutinho
   marque: Nike
+  numero: '#8'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: "50\u20AC"
   saison: 2018/19
   taille: L
   type: Third
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 02-2022
+  estimation: "70 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '56'
-  image: /assets/images/56.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2018/19
   taille: L
   type: Third
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "11 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 02-2022
+  estimation: "45 \u20AC"
   etat_flocage: '8'
   etat_maillot: '9'
+  floque: Oui
   id: '54'
-  image: /assets/images/54.jpg
   joueur: Dembele
   marque: Nike
+  numero: '#11'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "45\u20AC"
   saison: 2017/18
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 02-2022
+  estimation: "80 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '52'
-  image: /assets/images/52.jpg
   joueur: Neymar
   marque: Nike
+  numero: '#11'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2016/17
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 02-2022
+  estimation: "100 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '49'
-  image: /assets/images/49.jpg
   joueur: Neymar
   marque: Nike
+  numero: '#11'
+  patch: WC + CL
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2015/16
   taille: L
   type: Third
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 02-2022
+  estimation: "100 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '48'
-  image: /assets/images/48.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2015/16
   taille: M
   type: Away
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 02-2022
+  estimation: "75 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '42'
-  image: /assets/images/42.jpg
   joueur: Neymar
   marque: Nike
+  numero: '#11'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2014/15
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "135 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 02-2022
+  estimation: "110 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '31'
-  image: /assets/images/31.jpg
   joueur: Iniesta
   marque: Nike
+  numero: '#8'
+  patch: Liga
+  plateforme: Vintage Football Area
+  prix_de_vente: N/A
   saison: 2010/11
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 02-2022
+  estimation: "80 \u20AC"
   etat_flocage: '8'
   etat_maillot: '8'
+  floque: Oui
   id: '29'
-  image: /assets/images/29.jpg
   joueur: Dani Alves
   marque: Nike
+  numero: '#2'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2009/10
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 02-2022
+  estimation: "50 \u20AC"
   etat_flocage: '7'
   etat_maillot: '8'
+  floque: Oui
   id: '28'
-  image: /assets/images/28.jpg
   joueur: Ibrahimovic
   marque: Nike
+  numero: '#9'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "50\u20AC"
   saison: 2009/10
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "87 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 02-2022
+  estimation: "115 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '25'
-  image: /assets/images/25.jpg
   joueur: Messi
   marque: Nike
-  saison: 2007/08
+  numero: '#19'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2007/8
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
+  data_achat: 02-2022
+  estimation: "50 \u20AC"
   etat_flocage: '9'
   etat_maillot: '8'
+  floque: Oui
   id: '7'
-  image: /assets/images/7.jpg
   joueur: Ribery
   marque: Adidas
-  saison: 2007/08
+  numero: '#22'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2007/8
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
-  championnat: 'Serie A '
+  achat: "25 \u20AC"
+  championnat: Serie A
   club: Juventus de Turin
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 01-2022
+  estimation: "70 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '101'
-  image: /assets/images/101.jpg
   joueur: Dybala
   marque: Adidas
+  numero: '#10'
+  patch: CL
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2018/19
   taille: L
   type: Third
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "50 \u20AC"
   championnat: Premier League
   club: Arsenal
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 01-2022
+  estimation: "60 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '75'
-  image: /assets/images/75.jpg
   joueur: S. Cazorla
   marque: Puma
+  numero: '#19'
+  patch: PL
+  plateforme: Instagram
+  prix_de_vente: N/A
   saison: 2015/16
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "65 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 01-2022
+  estimation: "75 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '68'
-  image: /assets/images/68.jpg
   joueur: Pedri
   marque: Nike
+  numero: '#8'
+  patch: Liga
+  plateforme: Barca Store
+  prix_de_vente: N/A
   saison: 2021/22
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "115 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
+  data_achat: 01-2022
+  estimation: "110 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '20'
-  image: /assets/images/20.jpg
   joueur: Ronaldinho
   marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vintage Velti Football
+  prix_de_vente: N/A
   saison: 2004/05
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "199 \u20AC"
   championnat: Premier League
   club: Arsenal
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 12-2021
+  estimation: "140 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '71'
-  image: /assets/images/71.jpg
   joueur: Henry
   marque: Nike
+  numero: '#14'
+  patch: N/A
+  plateforme: Hashtag Paris
+  prix_de_vente: N/A
   saison: 1999/00
   taille: M
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Liga
   club: Barcelona
-  etat_flocage: None
+  data_achat: 12-2021
+  estimation: "15 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '10'
+  floque: N/A
   id: '65'
-  image: /assets/images/65.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2020/21
   taille: M
   type: Training
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "45 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: None
-  etat_maillot: '9.5'
+  data_achat: 12-2021
+  estimation: "70 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: 9,5
+  floque: N/A
   id: '9'
-  image: /assets/images/9.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2011/12
   taille: L
   type: Away
+  vendu: Non
   version: Stock Pro L/S
 - a_vendre: Non
+  achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 10-2021
+  estimation: "65 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '69'
-  image: /assets/images/69.jpg
   joueur: Ansu Fati
   marque: Nike
+  numero: '#10'
+  patch: CL
+  plateforme: Barca Store
+  prix_de_vente: N/A
   saison: 2021/22
   taille: L
   type: Third
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
+  data_achat: 10-2021
+  estimation: "110 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '63'
-  image: /assets/images/63.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2020/21
   taille: M
   type: Home
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: "87 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 09-2021
+  estimation: "130 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '58'
-  image: /assets/images/58.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2018/19
   taille: L
   type: Home
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: "18 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 09-2021
+  estimation: "70 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '34'
-  image: /assets/images/34.jpg
   joueur: Alexis
   marque: Nike
+  numero: '#9'
+  patch: Liga + 3 + WC
+  plateforme: Leboncoin
+  prix_de_vente: N/A
   saison: 2011/12
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "30 \u20AC"
   championnat: Equipe Nationale
   club: Allemagne
+  data_achat: 09-2021
+  estimation: "30 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '5'
-  image: /assets/images/5.jpg
   joueur: Kimmich
   marque: Adidas
+  numero: '#6'
+  patch: N/A
+  plateforme: Adidas
+  prix_de_vente: N/A
   saison: 2020/21
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Liga
   club: Barcelona
+  data_achat: 08-2021
+  estimation: "60 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '67'
-  image: /assets/images/67.jpg
   joueur: Depay
   marque: Nike
+  numero: '#9'
+  patch: Liga
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2021/22
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: None
-  etat_maillot: '9.5'
+  data_achat: 08-2021
+  estimation: "25 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: 9,5
+  floque: N/A
   id: '62'
-  image: /assets/images/62.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "25\u20AC"
   saison: 2019/20
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "20 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 08-2021
+  estimation: "80 \u20AC"
   etat_flocage: '10'
   etat_maillot: '9'
+  floque: Oui
   id: '50'
-  image: /assets/images/50.jpg
   joueur: Busquets
   marque: Nike
+  numero: '#5'
+  patch: Copa del Rey
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2016/17
   taille: L
   type: Home
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 08-2021
+  estimation: "60 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '40'
-  image: /assets/images/40.jpg
   joueur: Neymar
   marque: Nike
+  numero: '#11'
+  patch: Liga
+  plateforme: Leboncoin
+  prix_de_vente: N/A
   saison: 2013/14
   taille: M
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "95 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '8.5'
+  data_achat: 08-2021
+  estimation: "100 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 8,5
+  floque: Oui
   id: '33'
-  image: /assets/images/33.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga + WC
+  plateforme: Classic Football Shirts
+  prix_de_vente: N/A
   saison: 2011/12
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Liga
   club: Barcelona
+  data_achat: 08-2021
+  estimation: "90 \u20AC"
   etat_flocage: '8'
   etat_maillot: '9'
+  floque: Oui
   id: '27'
-  image: /assets/images/27.jpg
   joueur: Eto'o
   marque: Nike
-  saison: 2008/09
+  numero: '#9'
+  patch: Liga
+  plateforme: Gift
+  prix_de_vente: N/A
+  saison: 2008/9
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "30 \u20AC"
   championnat: Premier League
   club: Manchester United
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 07-2021
+  estimation: "60 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '86'
-  image: /assets/images/86.jpg
   joueur: Ibrahimovic
   marque: Adidas
+  numero: '#9'
+  patch: PL
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2016/17
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "30 \u20AC"
   championnat: Premier League
   club: Manchester City
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 07-2021
+  estimation: "70 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '80'
-  image: /assets/images/80.jpg
   joueur: "Yaya Tour\xE9"
   marque: Nike
+  numero: '#42'
+  patch: PL
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2015/16
   taille: M
   type: Third
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "22 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 07-2021
+  estimation: "55 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '60'
-  image: /assets/images/60.jpg
   joueur: F. De Jong
   marque: Nike
+  numero: '#21'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2019/20
   taille: M
   type: Third
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "72 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 07-2021
+  estimation: "70 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '14'
-  image: /assets/images/14.jpg
   joueur: Griezmann
   marque: Nike
+  numero: '#7'
+  patch: N/A
+  plateforme: Vintage Football Area
+  prix_de_vente: N/A
   saison: 2018/19
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 06-2021
+  estimation: "60 \u20AC"
   etat_flocage: '8'
-  etat_maillot: '8.5'
+  etat_maillot: 8,5
+  floque: Oui
   id: '21'
-  image: /assets/images/21.jpg
   joueur: Puyol
   marque: Nike
+  numero: '#5'
+  patch: Liga
+  plateforme: Instagram
+  prix_de_vente: N/A
   saison: 2004/05
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 05-2021
+  estimation: "65 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
+  floque: Oui
   id: '30'
-  image: /assets/images/30.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga + WC
+  plateforme: Vinted
+  prix_de_vente: "65\u20AC"
   saison: 2010/11
   taille: L
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Sold
+  achat: "15 \u20AC"
   championnat: Equipe Nationale
   club: Portugal
-  etat_flocage: None
+  data_achat: 05-2021
+  estimation: "30 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '8'
+  floque: N/A
   id: '19'
-  image: /assets/images/19.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: "30\u20AC"
   saison: 2011/12
   taille: L
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "115 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 05-2021
+  estimation: "130 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '13'
-  image: /assets/images/13.jpg
   joueur: Varane
   marque: Nike
+  numero: '#4'
+  patch: N/A
+  plateforme: Instagram
+  prix_de_vente: N/A
   saison: 2016/17
   taille: L
   type: Home
+  vendu: Non
   version: Stock Pro L/S
 - a_vendre: Non
+  achat: "15 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: '9.5'
+  data_achat: 05-2021
+  estimation: "40 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '8'
-  image: /assets/images/8.jpg
   joueur: Diaby
   marque: Adidas
+  numero: '#19'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2010/11
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "19 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
+  data_achat: 05-2021
+  estimation: "50 \u20AC"
   etat_flocage: '9'
   etat_maillot: '7'
+  floque: Oui
   id: '3'
-  image: /assets/images/3.jpg
   joueur: Messi
   marque: Adidas
+  numero: '#10'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2017/18
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 04-2021
+  estimation: "90 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
+  floque: Oui
   id: '43'
-  image: /assets/images/43.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Classic Football Shirts
+  prix_de_vente: N/A
   saison: 2014/15
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "25 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 04-2021
+  estimation: "65 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
+  floque: Oui
   id: '37'
-  image: /assets/images/37.jpg
   joueur: Messi
   marque: Nike
+  numero: '#10'
+  patch: Liga + 3
+  plateforme: Vinted
+  prix_de_vente: "65\u20AC"
   saison: 2012/13
   taille: L
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Oui
+  achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
+  data_achat: 04-2021
+  estimation: "90 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
+  floque: Oui
   id: '15'
-  image: /assets/images/15.jpg
   joueur: Pogba
   marque: Nike
+  numero: '#6'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2018/19
   taille: XL
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "20 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: None
+  data_achat: 04-2021
+  estimation: "30 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '7'
+  floque: N/A
   id: '12'
-  image: /assets/images/12.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: "30\u20AC"
   saison: 2014/15
   taille: L
   type: Home
+  vendu: Oui
   version: Player issue
 - a_vendre: Non
+  achat: "20 \u20AC"
   championnat: Equipe Nationale
   club: France
-  etat_flocage: '9.5'
+  data_achat: 04-2021
+  estimation: "50 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '8'
+  floque: Oui
   id: '11'
-  image: /assets/images/11.jpg
   joueur: Pogba
   marque: Nike
+  numero: '#19'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2014/15
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Sold
-  championnat: 'Serie A '
+  achat: "15 \u20AC"
+  championnat: Serie A
   club: Milan AC
+  data_achat: 03-2021
+  estimation: "50 \u20AC"
   etat_flocage: '7'
   etat_maillot: '9'
+  floque: Oui
   id: '99'
-  image: /assets/images/99.jpg
   joueur: Robinho
   marque: Adidas
+  numero: '#70'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: "50\u20AC"
   saison: 2011/12
   taille: XL
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "65 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 03-2021
+  estimation: "90 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '96'
-  image: /assets/images/96.jpg
   joueur: Lewandowski
   marque: Adidas
+  numero: '#9'
+  patch: N/A
+  plateforme: Classic Football Shirts
+  prix_de_vente: N/A
   saison: 2016/17
   taille: L
   type: Third
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: "24 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: None
-  etat_maillot: '9.5'
+  data_achat: 03-2021
+  estimation: "40 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: 9,5
+  floque: N/A
   id: '55'
-  image: /assets/images/55.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2018/19
   taille: M
   type: Away
+  vendu: Non
   version: Replica L/S
 - a_vendre: Sold
+  achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: None
+  data_achat: 03-2021
+  estimation: "20 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '9'
+  floque: N/A
   id: '47'
-  image: /assets/images/47.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "20\u20AC"
   saison: 2015/16
   taille: L
   type: Away
+  vendu: Oui
   version: Replica
 - a_vendre: Sold
+  achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: None
-  etat_maillot: '9.5'
+  data_achat: 03-2021
+  estimation: "18 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: 9,5
+  floque: N/A
   id: '35'
-  image: /assets/images/35.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "18\u20AC"
   saison: 2011/12
   taille: XL
   type: Away
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "70 \u20AC"
   championnat: Liga
   club: Barcelona
+  data_achat: 03-2021
+  estimation: "50 \u20AC"
   etat_flocage: '6'
   etat_maillot: '9'
+  floque: Oui
   id: '26'
-  image: /assets/images/26.jpg
   joueur: Messi
   marque: Nike
-  saison: 2008/09
+  numero: '#10'
+  patch: Liga
+  plateforme: Classic Football Shirts
+  prix_de_vente: N/A
+  saison: 2008/9
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Sold
-  championnat: 'Serie A '
+  achat: "70 \u20AC"
+  championnat: Serie A
   club: Milan AC
+  data_achat: 02-2021
+  estimation: "55 \u20AC"
   etat_flocage: '8'
   etat_maillot: '9'
+  floque: Oui
   id: '98'
-  image: /assets/images/98.jpg
   joueur: Kaka
   marque: Adidas
-  saison: 2008/09
+  numero: '#22'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: "55\u20AC"
+  saison: 2008/9
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Sold
+  achat: "15 \u20AC"
   championnat: Bundesliga
   club: Dortmund
-  etat_flocage: None
+  data_achat: 02-2021
+  estimation: "18 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '9'
+  floque: N/A
   id: '97'
-  image: /assets/images/97.jpg
   joueur: N/A
   marque: Puma
+  numero: N/A
+  patch: N/A
+  plateforme: Ebay
+  prix_de_vente: "18\u20AC"
   saison: 2016/17
   taille: XL
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "15 \u20AC"
   championnat: Premier League
   club: Manchester United
-  etat_flocage: '9.5'
+  data_achat: 02-2021
+  estimation: "50 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '85'
-  image: /assets/images/85.jpg
   joueur: Pogba
   marque: Adidas
+  numero: '#6'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2016/17
   taille: L
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "70 \u20AC"
   championnat: Premier League
   club: Manchester United
+  data_achat: 02-2021
+  estimation: "95 \u20AC"
   etat_flocage: '9'
   etat_maillot: '8'
+  floque: Oui
   id: '82'
-  image: /assets/images/82.jpg
   joueur: Ronaldo
   marque: Nike
+  numero: '#7'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2005/06
   taille: M
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "30 \u20AC"
   championnat: Premier League
   club: Arsenal
-  etat_flocage: '9.5'
+  data_achat: 02-2021
+  estimation: "45 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '7'
+  floque: Oui
   id: '74'
-  image: /assets/images/74.jpg
   joueur: Fabregas
   marque: Nike
+  numero: '#4'
+  patch: PL
+  plateforme: Vinted
+  prix_de_vente: "45\u20AC"
   saison: 2010/11
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Sold
-  championnat: 'Serie A '
+  achat: "20 \u20AC"
+  championnat: Serie A
   club: Juventus de Turin
-  etat_flocage: None
+  data_achat: 01-2021
+  estimation: "20 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '6'
+  floque: N/A
   id: '100'
-  image: /assets/images/100.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Ebay
+  prix_de_vente: "20\u20AC"
   saison: 2004/05
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "30 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
+  data_achat: 01-2021
+  estimation: "60 \u20AC"
   etat_flocage: '8'
-  etat_maillot: '8.5'
+  etat_maillot: 8,5
+  floque: Oui
   id: '94'
-  image: /assets/images/94.jpg
   joueur: Ribery
   marque: Adidas
-  saison: 2008/09
+  numero: '#7'
+  patch: N/A
+  plateforme: Ebay
+  prix_de_vente: N/A
+  saison: 2008/9
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Sold
+  achat: "25 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
-  etat_flocage: None
+  data_achat: 01-2021
+  estimation: "17 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '7'
+  floque: N/A
   id: '93'
-  image: /assets/images/93.jpg
   joueur: N/A
   marque: Adidas
+  numero: N/A
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: "17\u20AC"
   saison: 2004/05
   taille: M
   type: Home
+  vendu: Oui
   version: Replica
 - a_vendre: Non
+  achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 01-2021
+  estimation: "65 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '46'
-  image: /assets/images/46.jpg
   joueur: Suarez
   marque: Nike
+  numero: '#9'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2015/16
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Equipe Nationale
   club: France
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 12-2020
+  estimation: "30 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '18'
-  image: /assets/images/18.jpg
   joueur: Pogba
   marque: Nike
+  numero: '#6'
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2020/21
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
-  etat_maillot: '9.5'
+  data_achat: 08-2020
+  estimation: "80 \u20AC"
+  etat_flocage: 9,5
+  etat_maillot: 9,5
+  floque: Oui
   id: '59'
-  image: /assets/images/59.jpg
   joueur: F. De Jong
   marque: Nike
+  numero: '#21'
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2019/20
   taille: XL
   type: Away
+  vendu: Non
   version: Player issue
 - a_vendre: Non
+  achat: N/A
   championnat: Ligue 1
   club: Caen
-  etat_flocage: None
-  etat_maillot: '9.5'
+  data_achat: 05-2018
+  estimation: "40 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: 9,5
+  floque: N/A
   id: '90'
-  image: /assets/images/90.jpg
   joueur: N/A
   marque: Umbro
+  numero: N/A
+  patch: Ligue 1
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2017/18
   taille: XL
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: "11 \u20AC"
   championnat: Liga
   club: Barcelona
-  etat_flocage: '9.5'
+  data_achat: 08-2017
+  estimation: "70 \u20AC"
+  etat_flocage: 9,5
   etat_maillot: '9'
+  floque: Oui
   id: '53'
-  image: /assets/images/53.jpg
   joueur: Suarez
   marque: Nike
+  numero: '#9'
+  patch: Liga
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2017/18
   taille: M
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Liga
   club: Barcelona
-  etat_flocage: None
+  data_achat: 08-2015
+  estimation: "15 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '6'
+  floque: N/A
   id: '44'
-  image: /assets/images/44.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: GIft
+  prix_de_vente: N/A
   saison: 2014/15
   taille: S
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Equipe Nationale
   club: France
-  etat_flocage: None
+  data_achat: 09-2012
+  estimation: "15 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '7'
+  floque: N/A
   id: '10'
-  image: /assets/images/10.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2012/13
   taille: S
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Ligue 1
   club: AJ Auxerre
-  etat_flocage: None
+  data_achat: 07-2011
+  estimation: "30 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '9'
+  floque: N/A
   id: '91'
-  image: /assets/images/91.jpg
   joueur: N/A
   marque: Umbro
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2011/12
   taille: L
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Premier League
   club: Manchester United
-  etat_flocage: None
+  data_achat: 09-2010
+  estimation: "10 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '8'
+  floque: N/A
   id: '84'
-  image: /assets/images/84.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2010/11
   taille: 14yo
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Premier League
   club: Chelsea
-  etat_flocage: None
+  data_achat: 09-2010
+  estimation: "10 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '8'
+  floque: N/A
   id: '77'
-  image: /assets/images/77.jpg
   joueur: N/A
   marque: Adidas
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2010/11
   taille: 10yo
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Eredevise
   club: Ajax Amsterdam
-  etat_flocage: None
+  data_achat: 09-2009
+  estimation: "20 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '8'
+  floque: N/A
   id: '103'
-  image: /assets/images/103.jpg
   joueur: N/A
   marque: Adidas
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2009/10
   taille: S
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Ligue 1
   club: Lyon
-  etat_flocage: None
+  data_achat: 09-2009
+  estimation: "10 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '8'
+  floque: N/A
   id: '88'
-  image: /assets/images/88.jpg
   joueur: N/A
   marque: Umbro
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2009/10
   taille: 14yo
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Premier League
   club: Manchester United
-  etat_flocage: None
+  data_achat: 09-2009
+  estimation: "10 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '8'
+  floque: N/A
   id: '83'
-  image: /assets/images/83.jpg
   joueur: N/A
   marque: Nike
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2009/10
   taille: 12yo
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Premier League
   club: Manchester City
-  etat_flocage: None
+  data_achat: 09-2009
+  estimation: "10 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '8'
+  floque: N/A
   id: '79'
-  image: /assets/images/79.jpg
   joueur: N/A
   marque: Umbro
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
   saison: 2009/10
   taille: 12yo
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Ligue 1
   club: Caen
-  etat_flocage: None
+  data_achat: 09-2008
+  estimation: "10 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '7'
+  floque: N/A
   id: '89'
-  image: /assets/images/89.jpg
   joueur: N/A
   marque: Nike
-  saison: 2008/09
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
+  saison: 2008/9
   taille: 12yo
   type: Home
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Premier League
   club: Liverpool
-  etat_flocage: None
+  data_achat: 09-2008
+  estimation: "10 \u20AC"
+  etat_flocage: N/A
   etat_maillot: '8'
+  floque: N/A
   id: '76'
-  image: /assets/images/76.jpg
   joueur: N/A
   marque: Adidas
-  saison: 2008/09
+  numero: N/A
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
+  saison: 2008/9
   taille: 12yo
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Premier League
   club: Arsenal
+  data_achat: 09-2008
+  estimation: "0 \u20AC"
   etat_flocage: '9'
   etat_maillot: '8'
+  floque: Oui
   id: '73'
-  image: /assets/images/73.jpg
   joueur: "Th\xE9o"
   marque: Nike
-  saison: 2008/09
+  numero: '#1'
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
+  saison: 2008/9
   taille: 8yo
   type: Away
+  vendu: Non
   version: Replica
 - a_vendre: Non
+  achat: N/A
   championnat: Equipe Nationale
   club: England
+  data_achat: 09-2008
+  estimation: "10 \u20AC"
   etat_flocage: '9'
   etat_maillot: '8'
+  floque: Oui
   id: '1'
-  image: /assets/images/1.jpg
   joueur: Rooney
   marque: Umbro
-  saison: 2008/09
+  numero: '#9'
+  patch: N/A
+  plateforme: Gift
+  prix_de_vente: N/A
+  saison: 2008/9
   taille: 12 yo
   type: Home
+  vendu: Non
   version: Replica
