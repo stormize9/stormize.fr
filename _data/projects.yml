@@ -20,27 +20,6 @@
   vendu: Non
   version: Replica
 - a_vendre: Non
-  achat: '98'
-  championnat: Liga
-  club: Barcelona
-  data_achat: 09-2023
-  estimation: '90'
-  etat_flocage: '8'
-  etat_maillot: '9'
-  floque: Oui
-  id: '124'
-  joueur: Iniesta
-  marque: Nike
-  numero: '#8'
-  patch: Liga
-  plateforme: Vinted
-  prix_de_vente: N/A
-  saison: 2008/09
-  taille: M
-  type: Away
-  vendu: Non
-  version: Replica
-- a_vendre: Non
   achat: "30 \u20AC"
   championnat: Eredevise
   club: Ajax Amsterdam
