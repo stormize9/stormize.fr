@@ -2,6 +2,27 @@
   achat: '25'
   championnat: Liga
   club: Barcelona
+  data_achat: 10-2023
+  estimation: '30'
+  etat_flocage: N/A
+  etat_maillot: '9'
+  floque: N/A
+  id: '126'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2017/18
+  taille: M
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: '25'
+  championnat: Liga
+  club: Barcelona
   data_achat: 09-2023
   estimation: '30'
   etat_flocage: N/A
