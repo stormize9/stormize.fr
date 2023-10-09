@@ -1,16 +1,16 @@
 - a_vendre: Non
-  achat: '25'
+  achat: '50'
   championnat: Liga
   club: Barcelona
   data_achat: 10-2023
-  estimation: '30'
-  etat_flocage: N/A
+  estimation: '75'
+  etat_flocage: '10'
   etat_maillot: '9'
-  floque: N/A
+  floque: Oui
   id: '126'
-  joueur: N/A
+  joueur: Messi
   marque: Nike
-  numero: '#N/A'
+  numero: '#10'
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
