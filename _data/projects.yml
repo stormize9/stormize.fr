@@ -1,4 +1,25 @@
 - a_vendre: Non
+  achat: '130'
+  championnat: Premier League
+  club: Arsenal
+  data_achat: 10-2023
+  estimation: '150'
+  etat_flocage: '10'
+  etat_maillot: '9'
+  floque: Oui
+  id: '127'
+  joueur: Henry
+  marque: Nike
+  numero: '#14'
+  patch: PL
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2005/06
+  taille: M
+  type: Home
+  vendu: Non
+  version: Replica
+- a_vendre: Non
   achat: '50'
   championnat: Liga
   club: Barcelona
