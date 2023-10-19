@@ -460,7 +460,7 @@
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -475,11 +475,11 @@
   numero: '#8'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: N/A
+  prix_de_vente: '50'
   saison: 2010/11
   taille: L
   type: Away
-  vendu: Non
+  vendu: Oui
   version: Replica
 - a_vendre: Non
   achat: "27 \u20AC"
@@ -1216,7 +1216,7 @@
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1231,11 +1231,11 @@
   numero: '#2'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: N/A
+  prix_de_vente: "50\u20AC"
   saison: 2009/10
   taille: L
   type: Home
-  vendu: Non
+  vendu: Oui
   version: Replica
 - a_vendre: Sold
   achat: "35 \u20AC"
