@@ -152,7 +152,7 @@
   data_achat: 07-2023
   estimation: "40 \u20AC"
   etat_flocage: N/A
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: N/A
   id: '120'
   joueur: N/A
@@ -235,8 +235,8 @@
   club: Liverpool
   data_achat: 05-2023
   estimation: "75 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '116'
   joueur: Salah
@@ -256,8 +256,8 @@
   club: Barcelona
   data_achat: 05-2023
   estimation: "110 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '115'
   joueur: Messi
@@ -277,8 +277,8 @@
   club: Barcelona
   data_achat: 04-2023
   estimation: "80 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '114'
   joueur: Messi
@@ -299,7 +299,7 @@
   data_achat: 04-2023
   estimation: "150 \u20AC"
   etat_flocage: N/A
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: N/A
   id: '113'
   joueur: N/A
@@ -404,7 +404,7 @@
   data_achat: 03-2023
   estimation: "80 \u20AC"
   etat_flocage: '9'
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: Oui
   id: '107'
   joueur: Bernardo
@@ -424,8 +424,8 @@
   club: Manchester City
   data_achat: 03-2023
   estimation: "80 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '106'
   joueur: De Bruyne
@@ -445,7 +445,7 @@
   club: Barcelona
   data_achat: 03-2023
   estimation: "150 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '22'
@@ -508,8 +508,8 @@
   club: Barcelona
   data_achat: 02-2023
   estimation: "100 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '32'
   joueur: David Villa
@@ -550,8 +550,8 @@
   club: Arsenal
   data_achat: 12-2022
   estimation: "110 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '72'
   joueur: v. Persie
@@ -572,7 +572,7 @@
   data_achat: 09-2022
   estimation: "60 \u20AC"
   etat_flocage: '9'
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: Oui
   id: '41'
   joueur: Neymar
@@ -634,8 +634,8 @@
   club: Barcelona
   data_achat: 08-2022
   estimation: "100 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '66'
   joueur: Messi
@@ -655,8 +655,8 @@
   club: Barcelona
   data_achat: 08-2022
   estimation: "70 \u20AC"
-  etat_flocage: 8,5
-  etat_maillot: 9,5
+  etat_flocage: '8.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '38'
   joueur: Messi
@@ -676,7 +676,7 @@
   club: Barcelona
   data_achat: 08-2022
   estimation: "110 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '23'
@@ -697,8 +697,8 @@
   club: Manchester United
   data_achat: 07-2022
   estimation: "120 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '81'
   joueur: Ronaldo
@@ -739,8 +739,8 @@
   club: Barcelona
   data_achat: 06-2022
   estimation: "60 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '61'
   joueur: "Piqu\xE9"
@@ -760,8 +760,8 @@
   club: Barcelona
   data_achat: 06-2022
   estimation: "130 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '45'
   joueur: Suarez
@@ -781,7 +781,7 @@
   club: Manchester United
   data_achat: 05-2022
   estimation: "50 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '87'
@@ -803,7 +803,7 @@
   data_achat: 05-2022
   estimation: "70 \u20AC"
   etat_flocage: '9'
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: Oui
   id: '78'
   joueur: Hazard
@@ -824,7 +824,7 @@
   data_achat: 05-2022
   estimation: "60 \u20AC"
   etat_flocage: '8'
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: Oui
   id: '51'
   joueur: Iniesta
@@ -844,7 +844,7 @@
   club: Juventus de Turin
   data_achat: 04-2022
   estimation: "40 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '102'
@@ -887,7 +887,7 @@
   data_achat: 04-2022
   estimation: "70 \u20AC"
   etat_flocage: '9'
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: Oui
   id: '36'
   joueur: Xavi
@@ -949,7 +949,7 @@
   club: France
   data_achat: 04-2022
   estimation: "100 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '6'
@@ -991,8 +991,8 @@
   club: Barcelona
   data_achat: 03-2022
   estimation: "100 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 8,5
+  etat_flocage: '9.5'
+  etat_maillot: '8.5'
   floque: Oui
   id: '24'
   joueur: Ronaldinho
@@ -1033,8 +1033,8 @@
   club: Barcelona
   data_achat: 02-2022
   estimation: "100 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '64'
   joueur: Messi
@@ -1138,8 +1138,8 @@
   club: Barcelona
   data_achat: 02-2022
   estimation: "100 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '49'
   joueur: Neymar
@@ -1159,8 +1159,8 @@
   club: Barcelona
   data_achat: 02-2022
   estimation: "100 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '48'
   joueur: Messi
@@ -1180,8 +1180,8 @@
   club: Barcelona
   data_achat: 02-2022
   estimation: "75 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '42'
   joueur: Neymar
@@ -1201,8 +1201,8 @@
   club: Barcelona
   data_achat: 02-2022
   estimation: "110 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '31'
   joueur: Iniesta
@@ -1264,8 +1264,8 @@
   club: Barcelona
   data_achat: 02-2022
   estimation: "115 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '25'
   joueur: Messi
@@ -1306,8 +1306,8 @@
   club: Juventus de Turin
   data_achat: 01-2022
   estimation: "70 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '101'
   joueur: Dybala
@@ -1327,8 +1327,8 @@
   club: Arsenal
   data_achat: 01-2022
   estimation: "60 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '75'
   joueur: S. Cazorla
@@ -1369,7 +1369,7 @@
   club: Barcelona
   data_achat: 01-2022
   estimation: "110 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '20'
@@ -1390,8 +1390,8 @@
   club: Arsenal
   data_achat: 12-2021
   estimation: "140 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '71'
   joueur: Henry
@@ -1433,7 +1433,7 @@
   data_achat: 12-2021
   estimation: "70 \u20AC"
   etat_flocage: N/A
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: N/A
   id: '9'
   joueur: N/A
@@ -1474,7 +1474,7 @@
   club: Barcelona
   data_achat: 10-2021
   estimation: "110 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '63'
@@ -1516,8 +1516,8 @@
   club: Barcelona
   data_achat: 09-2021
   estimation: "70 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '34'
   joueur: Alexis
@@ -1580,7 +1580,7 @@
   data_achat: 08-2021
   estimation: "25 \u20AC"
   etat_flocage: N/A
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: N/A
   id: '62'
   joueur: N/A
@@ -1621,8 +1621,8 @@
   club: Barcelona
   data_achat: 08-2021
   estimation: "60 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '40'
   joueur: Neymar
@@ -1642,8 +1642,8 @@
   club: Barcelona
   data_achat: 08-2021
   estimation: "100 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 8,5
+  etat_flocage: '9.5'
+  etat_maillot: '8.5'
   floque: Oui
   id: '33'
   joueur: Messi
@@ -1684,8 +1684,8 @@
   club: Manchester United
   data_achat: 07-2021
   estimation: "60 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '86'
   joueur: Ibrahimovic
@@ -1705,8 +1705,8 @@
   club: Manchester City
   data_achat: 07-2021
   estimation: "70 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '80'
   joueur: "Yaya Tour\xE9"
@@ -1726,8 +1726,8 @@
   club: Barcelona
   data_achat: 07-2021
   estimation: "55 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '60'
   joueur: F. De Jong
@@ -1747,8 +1747,8 @@
   club: France
   data_achat: 07-2021
   estimation: "70 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '14'
   joueur: Griezmann
@@ -1769,7 +1769,7 @@
   data_achat: 06-2021
   estimation: "60 \u20AC"
   etat_flocage: '8'
-  etat_maillot: 8,5
+  etat_maillot: '8.5'
   floque: Oui
   id: '21'
   joueur: Puyol
@@ -1831,8 +1831,8 @@
   club: France
   data_achat: 05-2021
   estimation: "130 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '13'
   joueur: Varane
@@ -1852,7 +1852,7 @@
   club: France
   data_achat: 05-2021
   estimation: "40 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '8'
@@ -1978,7 +1978,7 @@
   club: France
   data_achat: 04-2021
   estimation: "50 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '8'
   floque: Oui
   id: '11'
@@ -2020,8 +2020,8 @@
   club: Bayern Munich
   data_achat: 03-2021
   estimation: "90 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '96'
   joueur: Lewandowski
@@ -2042,7 +2042,7 @@
   data_achat: 03-2021
   estimation: "40 \u20AC"
   etat_flocage: N/A
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: N/A
   id: '55'
   joueur: N/A
@@ -2084,7 +2084,7 @@
   data_achat: 03-2021
   estimation: "18 \u20AC"
   etat_flocage: N/A
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: N/A
   id: '35'
   joueur: N/A
@@ -2167,7 +2167,7 @@
   club: Manchester United
   data_achat: 02-2021
   estimation: "50 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '85'
@@ -2209,7 +2209,7 @@
   club: Arsenal
   data_achat: 02-2021
   estimation: "45 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '7'
   floque: Oui
   id: '74'
@@ -2252,7 +2252,7 @@
   data_achat: 01-2021
   estimation: "60 \u20AC"
   etat_flocage: '8'
-  etat_maillot: 8,5
+  etat_maillot: '8.5'
   floque: Oui
   id: '94'
   joueur: Ribery
@@ -2293,8 +2293,8 @@
   club: Barcelona
   data_achat: 01-2021
   estimation: "65 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '46'
   joueur: Suarez
@@ -2314,8 +2314,8 @@
   club: France
   data_achat: 12-2020
   estimation: "30 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '18'
   joueur: Pogba
@@ -2335,8 +2335,8 @@
   club: Barcelona
   data_achat: 08-2020
   estimation: "80 \u20AC"
-  etat_flocage: 9,5
-  etat_maillot: 9,5
+  etat_flocage: '9.5'
+  etat_maillot: '9.5'
   floque: Oui
   id: '59'
   joueur: F. De Jong
@@ -2357,7 +2357,7 @@
   data_achat: 05-2018
   estimation: "40 \u20AC"
   etat_flocage: N/A
-  etat_maillot: 9,5
+  etat_maillot: '9.5'
   floque: N/A
   id: '90'
   joueur: N/A
@@ -2377,7 +2377,7 @@
   club: Barcelona
   data_achat: 08-2017
   estimation: "70 \u20AC"
-  etat_flocage: 9,5
+  etat_flocage: '9.5'
   etat_maillot: '9'
   floque: Oui
   id: '53'
