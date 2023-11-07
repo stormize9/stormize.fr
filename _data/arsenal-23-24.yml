@@ -68,3 +68,33 @@
   maillot: Home
   match: Arsenal 1-0 M. City
   mvp: Declan Rice
+- competition: Premier League J9
+  date: 21/10/2023
+  maillot: Home
+  match: Chelsea 2-2 Arsenal
+  mvp: B. Saka
+- competition: Champion's League
+  date: 24/10/2023
+  maillot: Third
+  match: Seville 1-2 Arsenal
+  mvp: G. Jesus
+- competition: Premier League J10
+  date: 28/10/2023
+  maillot: Home
+  match: Arsenal 5-0 Sheffield Utd
+  mvp: E. Nketiah
+- competition: Carabao Cup
+  date: 01/11/2023
+  maillot: Away
+  match: West Ham 3-1 Arsenal
+  mvp: J. Bowen
+- competition: Premier League J11
+  date: 04/11/2023
+  maillot: Home
+  match: Newcastle 1-0 Arsenal
+  mvp: A. Gordon
+- competition: Liga J12
+  date: 04/11/2023
+  maillot: Fourth
+  match: R. Sociedad 0-1 Barcelone
+  mvp: M. ter Stegen
