@@ -1,30 +1,89 @@
-- ? ''
-  : N/A
-  a_vendre: +
-  achat: Serie
+- a_vendre: Non
+  achat: "50\u20AC"
+  championnat: Ligue 1
+  club: Stade Rennais
+  data_achat: 02-2024
+  estimation: '60'
+  etat_flocage: '10'
+  etat_maillot: '10'
+  floque: Oui
+  id: '132'
+  joueur: "E. Le F\xE9e"
+  marque: Puma
+  numero: '#28'
+  patch: Ligue 1
+  plateforme: Made In Sport
+  prix_de_vente: N/A
+  saison: 2023/24
+  taille: L
+  type: Third
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "40 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 02-2024
+  estimation: '50'
+  etat_flocage: N/A
+  etat_maillot: '10'
+  floque: N/A
+  id: '131'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: N/A
+  plateforme: Made In Sport
+  prix_de_vente: N/A
+  saison: 2023/24
+  taille: L
+  type: Away
+  vendu: Non
+  version: Player Issue
+- a_vendre: Non
+  achat: "30 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 02-2024
+  estimation: '40'
+  etat_flocage: N/A
+  etat_maillot: '10'
+  floque: N/A
+  id: '130'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: N/A
+  plateforme: Made In Sport
+  prix_de_vente: N/A
+  saison: 2023/24
+  taille: L
+  type: Third
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "40 \u20AC"
   championnat: Serie A
   club: Juventus
-  data_achat: Non
-  estimation: '40'
-  etat_flocage: M
-  etat_maillot: N/A
-  floque: Issue
+  data_achat: 01-2024
+  estimation: '50'
+  etat_flocage: N/A
+  etat_maillot: '9'
+  floque: N/A
   id: '129'
   joueur: N/A
   marque: Adidas
-  numero: N/A
-  patch: '9'
-  plateforme: Non
-  prix_de_vente: Copa
+  numero: '#N/A'
+  patch: Serie A + Copa
+  plateforme: Vinted
+  prix_de_vente: N/A
   saison: 2018/19
-  taille: '#N/A'
+  taille: M
   type: Home
-  vendu: A
-  version: Player
-- ? ''
-  : ''
-  a_vendre: Non
-  achat: '120'
+  vendu: Non
+  version: Player Issue
+- a_vendre: Non
+  achat: "120 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 01-2024
@@ -44,10 +103,8 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
-  achat: '130'
+- a_vendre: Non
+  achat: "130 \u20AC"
   championnat: Premier League
   club: Arsenal
   data_achat: 10-2023
@@ -67,10 +124,8 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
-  achat: '50'
+- a_vendre: Non
+  achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 10-2023
@@ -90,10 +145,8 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
-  achat: '25'
+- a_vendre: Non
+  achat: "25 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 09-2023
@@ -113,10 +166,8 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
-  achat: '98'
+- a_vendre: Non
+  achat: "98 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 09-2023
@@ -136,9 +187,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "30 \u20AC"
   championnat: Eredevise
   club: Ajax Amsterdam
@@ -159,9 +208,7 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "65 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -182,9 +229,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "45 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -205,9 +250,7 @@
   type: Home
   vendu: Non
   version: Replca
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "30 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -228,9 +271,7 @@
   type: Fourth
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "30 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -251,9 +292,7 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "60 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -274,9 +313,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "130 \u20AC"
   championnat: Premier League
   club: Manchester City
@@ -297,9 +334,7 @@
   type: Home
   vendu: Non
   version: Replica L/S
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "56 \u20AC"
   championnat: Premier League
   club: Liverpool
@@ -320,9 +355,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "71 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -343,9 +376,7 @@
   type: Fourth
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Oui
+- a_vendre: Oui
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -366,9 +397,7 @@
   type: Away
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "150 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -389,9 +418,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "72 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -412,9 +439,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "25 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -435,9 +460,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -458,9 +481,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "105 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
@@ -481,9 +502,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "53 \u20AC"
   championnat: Ligue 1
   club: AS Monaco
@@ -504,9 +523,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "35 \u20AC"
   championnat: Premier League
   club: Manchester City
@@ -527,9 +544,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "150 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -550,9 +565,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -573,9 +586,7 @@
   type: Away
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "27 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -596,9 +607,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -619,9 +628,7 @@
   type: Away
   vendu: Non
   version: Replica L/S
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -642,9 +649,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "120 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -665,9 +670,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "24 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -688,9 +691,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Hellas Liga
   club: Olympiakos
@@ -711,9 +712,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "70 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -734,9 +733,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -757,9 +754,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "55 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -780,9 +775,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "130 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -803,9 +796,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "120 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -826,9 +817,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "60 \u20AC"
   championnat: Ligue 1
   club: AS Monaco
@@ -849,9 +838,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -872,9 +859,7 @@
   type: Home
   vendu: Non
   version: Replica L/S
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "60 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -895,9 +880,7 @@
   type: Third
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "25 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -918,9 +901,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "35 \u20AC"
   championnat: Premier League
   club: Chelsea
@@ -941,9 +922,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "55 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -964,9 +943,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "21 \u20AC"
   championnat: Serie A
   club: Juventus de Turin
@@ -987,9 +964,7 @@
   type: Away
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "13 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1010,9 +985,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1033,9 +1006,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "40 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1056,9 +1027,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1079,9 +1048,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "85 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1102,9 +1069,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "100 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
@@ -1125,9 +1090,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Nonn
+- a_vendre: Nonn
   achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1148,9 +1111,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "25 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
@@ -1171,9 +1132,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1194,9 +1153,7 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1217,9 +1174,7 @@
   type: Third
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1240,9 +1195,7 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "11 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1263,9 +1216,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1286,9 +1237,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1309,9 +1258,7 @@
   type: Third
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1332,9 +1279,7 @@
   type: Away
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1355,9 +1300,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "135 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1378,9 +1321,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1401,9 +1342,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1424,9 +1363,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "87 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1447,9 +1384,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1470,9 +1405,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "25 \u20AC"
   championnat: Serie A
   club: Juventus de Turin
@@ -1493,9 +1426,7 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "50 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -1516,9 +1447,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "65 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1539,9 +1468,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "115 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1562,9 +1489,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "199 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -1585,9 +1510,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -1608,9 +1531,7 @@
   type: Training
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "45 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1631,9 +1552,7 @@
   type: Away
   vendu: Non
   version: Stock Pro L/S
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1654,9 +1573,7 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1677,9 +1594,7 @@
   type: Home
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "87 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1700,9 +1615,7 @@
   type: Home
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "18 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1723,9 +1636,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "30 \u20AC"
   championnat: Equipe Nationale
   club: Allemagne
@@ -1746,9 +1657,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -1769,9 +1678,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1792,9 +1699,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "20 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1815,9 +1720,7 @@
   type: Home
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1838,9 +1741,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "95 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1861,9 +1762,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -1884,9 +1783,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "30 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -1907,9 +1804,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "30 \u20AC"
   championnat: Premier League
   club: Manchester City
@@ -1930,9 +1825,7 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "22 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1953,9 +1846,7 @@
   type: Third
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "72 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1976,9 +1867,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1999,9 +1888,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2022,9 +1909,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Equipe Nationale
   club: Portugal
@@ -2045,9 +1930,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "115 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2068,9 +1951,7 @@
   type: Home
   vendu: Non
   version: Stock Pro L/S
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "15 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2091,9 +1972,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "19 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
@@ -2114,9 +1993,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2137,9 +2014,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "25 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2160,9 +2035,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Oui
+- a_vendre: Oui
   achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2183,9 +2056,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "20 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2206,9 +2077,7 @@
   type: Home
   vendu: Oui
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "20 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2229,9 +2098,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Serie A
   club: Milan AC
@@ -2252,9 +2119,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "65 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -2275,9 +2140,7 @@
   type: Third
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "24 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2298,9 +2161,7 @@
   type: Away
   vendu: Non
   version: Replica L/S
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2321,9 +2182,7 @@
   type: Away
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2344,9 +2203,7 @@
   type: Away
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "70 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2367,9 +2224,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "70 \u20AC"
   championnat: Serie A
   club: Milan AC
@@ -2390,9 +2245,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Bundesliga
   club: Dortmund
@@ -2413,9 +2266,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "15 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -2436,9 +2287,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "70 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -2459,9 +2308,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "30 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -2482,9 +2329,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "20 \u20AC"
   championnat: Serie A
   club: Juventus de Turin
@@ -2505,9 +2350,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "30 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -2528,9 +2371,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Sold
+- a_vendre: Sold
   achat: "25 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -2551,9 +2392,7 @@
   type: Home
   vendu: Oui
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2574,9 +2413,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Equipe Nationale
   club: France
@@ -2597,9 +2434,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -2620,9 +2455,7 @@
   type: Away
   vendu: Non
   version: Player issue
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Ligue 1
   club: Caen
@@ -2643,9 +2476,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: "11 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2666,9 +2497,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -2689,9 +2518,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Equipe Nationale
   club: France
@@ -2712,9 +2539,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Ligue 1
   club: AJ Auxerre
@@ -2735,9 +2560,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Manchester United
@@ -2758,9 +2581,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Chelsea
@@ -2781,9 +2602,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Eredevise
   club: Ajax Amsterdam
@@ -2804,9 +2623,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Ligue 1
   club: Lyon
@@ -2827,9 +2644,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Manchester United
@@ -2850,9 +2665,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Manchester City
@@ -2873,9 +2686,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Ligue 1
   club: Caen
@@ -2896,9 +2707,7 @@
   type: Home
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Liverpool
@@ -2919,9 +2728,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Arsenal
@@ -2942,9 +2749,7 @@
   type: Away
   vendu: Non
   version: Replica
-- ? ''
-  : ''
-  a_vendre: Non
+- a_vendre: Non
   achat: N/A
   championnat: Equipe Nationale
   club: England
