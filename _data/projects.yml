@@ -1,9 +1,51 @@
 - a_vendre: Non
+  achat: '115'
+  championnat: Ligue 1
+  club: Caen
+  data_achat: 02-2024
+  estimation: '100'
+  etat_flocage: N/A
+  etat_maillot: '10'
+  floque: N/A
+  id: '134'
+  joueur: N/A
+  marque: Kappa
+  numero: '#N/A'
+  patch: N/A
+  plateforme: Kappa
+  prix_de_vente: N/A
+  saison: 2023/24
+  taille: L
+  type: Special
+  vendu: Non
+  version: Player Issue
+- a_vendre: Non
+  achat: '28'
+  championnat: Liga
+  club: Barcelone
+  data_achat: 02-2024
+  estimation: '75'
+  etat_flocage: '8'
+  etat_maillot: '8'
+  floque: Oui
+  id: '133'
+  joueur: Messi
+  marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2011/12
+  taille: M
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
   achat: "50\u20AC"
   championnat: Ligue 1
   club: Stade Rennais
   data_achat: 02-2024
-  estimation: '60'
+  estimation: "60 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
   floque: Oui
@@ -24,7 +66,7 @@
   championnat: Liga
   club: Barcelona
   data_achat: 02-2024
-  estimation: '50'
+  estimation: "50 \u20AC"
   etat_flocage: N/A
   etat_maillot: '10'
   floque: N/A
@@ -45,7 +87,7 @@
   championnat: Liga
   club: Barcelona
   data_achat: 02-2024
-  estimation: '40'
+  estimation: "40 \u20AC"
   etat_flocage: N/A
   etat_maillot: '10'
   floque: N/A
@@ -66,14 +108,14 @@
   championnat: Serie A
   club: Juventus
   data_achat: 01-2024
-  estimation: '50'
-  etat_flocage: N/A
+  estimation: "80 \u20AC"
+  etat_flocage: '10'
   etat_maillot: '9'
-  floque: N/A
+  floque: Oui
   id: '129'
-  joueur: N/A
+  joueur: J. Cancelo
   marque: Adidas
-  numero: '#N/A'
+  numero: '#20'
   patch: Serie A + Copa
   plateforme: Vinted
   prix_de_vente: N/A
@@ -87,7 +129,7 @@
   championnat: Liga
   club: Barcelona
   data_achat: 01-2024
-  estimation: '120'
+  estimation: "120 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -108,7 +150,7 @@
   championnat: Premier League
   club: Arsenal
   data_achat: 10-2023
-  estimation: '150'
+  estimation: "150 \u20AC"
   etat_flocage: '10'
   etat_maillot: '9'
   floque: Oui
@@ -129,7 +171,7 @@
   championnat: Liga
   club: Barcelona
   data_achat: 10-2023
-  estimation: '75'
+  estimation: "75 \u20AC"
   etat_flocage: '10'
   etat_maillot: '9'
   floque: Oui
@@ -150,7 +192,7 @@
   championnat: Liga
   club: Barcelona
   data_achat: 09-2023
-  estimation: '30'
+  estimation: "30 \u20AC"
   etat_flocage: N/A
   etat_maillot: '9'
   floque: N/A
@@ -171,7 +213,7 @@
   championnat: Liga
   club: Barcelona
   data_achat: 09-2023
-  estimation: '90'
+  estimation: "90 \u20AC"
   etat_flocage: '8'
   etat_maillot: '9'
   floque: Oui
@@ -391,11 +433,11 @@
   numero: '#10'
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "80\u20AC"
+  prix_de_vente: "80 \u20AC"
   saison: 2015/16
   taille: M
   type: Away
-  vendu: Non
+  vendu: Oui
   version: Player issue
 - a_vendre: Non
   achat: "150 \u20AC"
@@ -475,7 +517,7 @@
   numero: '#11'
   patch: Liga
   plateforme: Leboncoin
-  prix_de_vente: "60\u20AC"
+  prix_de_vente: "60 \u20AC"
   saison: 2014/15
   taille: M
   type: Home
@@ -580,7 +622,7 @@
   numero: '#8'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: '50'
+  prix_de_vente: "50 \u20AC"
   saison: 2010/11
   taille: L
   type: Away
@@ -937,7 +979,7 @@
   numero: '#8'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "60\u20AC"
+  prix_de_vente: "60 \u20AC"
   saison: 2016/17
   taille: L
   type: Home
@@ -958,7 +1000,7 @@
   numero: '#4'
   patch: Serie A
   plateforme: Vinted
-  prix_de_vente: "40\u20AC"
+  prix_de_vente: "40 \u20AC"
   saison: 2019/20
   taille: M
   type: Away
@@ -979,7 +1021,7 @@
   numero: '#11'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "45\u20AC"
+  prix_de_vente: "45 \u20AC"
   saison: 2013/14
   taille: M
   type: Home
@@ -1126,7 +1168,7 @@
   numero: '#10'
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "46\u20AC"
+  prix_de_vente: "46 \u20AC"
   saison: 2009/10
   taille: L
   type: Home
@@ -1168,7 +1210,7 @@
   numero: '#8'
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "50\u20AC"
+  prix_de_vente: "50 \u20AC"
   saison: 2018/19
   taille: L
   type: Third
@@ -1210,7 +1252,7 @@
   numero: '#11'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "45\u20AC"
+  prix_de_vente: "45 \u20AC"
   saison: 2017/18
   taille: M
   type: Home
@@ -1336,7 +1378,7 @@
   numero: '#2'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "50\u20AC"
+  prix_de_vente: "50 \u20AC"
   saison: 2009/10
   taille: L
   type: Home
@@ -1357,7 +1399,7 @@
   numero: '#9'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "50\u20AC"
+  prix_de_vente: "50 \u20AC"
   saison: 2009/10
   taille: M
   type: Home
@@ -1693,7 +1735,7 @@
   numero: N/A
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "25\u20AC"
+  prix_de_vente: "25 \u20AC"
   saison: 2019/20
   taille: M
   type: Home
@@ -1903,7 +1945,7 @@
   numero: '#10'
   patch: Liga + WC
   plateforme: Vinted
-  prix_de_vente: "65\u20AC"
+  prix_de_vente: "65 \u20AC"
   saison: 2010/11
   taille: L
   type: Home
@@ -1924,7 +1966,7 @@
   numero: N/A
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "30\u20AC"
+  prix_de_vente: "30 \u20AC"
   saison: 2011/12
   taille: L
   type: Home
@@ -2029,7 +2071,7 @@
   numero: '#10'
   patch: Liga + 3
   plateforme: Vinted
-  prix_de_vente: "65\u20AC"
+  prix_de_vente: "65 \u20AC"
   saison: 2012/13
   taille: L
   type: Home
@@ -2071,7 +2113,7 @@
   numero: N/A
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "30\u20AC"
+  prix_de_vente: "30 \u20AC"
   saison: 2014/15
   taille: L
   type: Home
@@ -2113,7 +2155,7 @@
   numero: '#70'
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "50\u20AC"
+  prix_de_vente: "50 \u20AC"
   saison: 2011/12
   taille: XL
   type: Home
@@ -2176,7 +2218,7 @@
   numero: N/A
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "20\u20AC"
+  prix_de_vente: "20 \u20AC"
   saison: 2015/16
   taille: L
   type: Away
@@ -2197,7 +2239,7 @@
   numero: N/A
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "18\u20AC"
+  prix_de_vente: "18 \u20AC"
   saison: 2011/12
   taille: XL
   type: Away
@@ -2239,7 +2281,7 @@
   numero: '#22'
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "55\u20AC"
+  prix_de_vente: "55 \u20AC"
   saison: 2008/9
   taille: M
   type: Home
@@ -2260,7 +2302,7 @@
   numero: N/A
   patch: N/A
   plateforme: Ebay
-  prix_de_vente: "18\u20AC"
+  prix_de_vente: "18 \u20AC"
   saison: 2016/17
   taille: XL
   type: Home
@@ -2323,7 +2365,7 @@
   numero: '#4'
   patch: PL
   plateforme: Vinted
-  prix_de_vente: "45\u20AC"
+  prix_de_vente: "45 \u20AC"
   saison: 2010/11
   taille: M
   type: Home
@@ -2344,7 +2386,7 @@
   numero: N/A
   patch: N/A
   plateforme: Ebay
-  prix_de_vente: "20\u20AC"
+  prix_de_vente: "20 \u20AC"
   saison: 2004/05
   taille: M
   type: Home
@@ -2386,7 +2428,7 @@
   numero: N/A
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "17\u20AC"
+  prix_de_vente: "17 \u20AC"
   saison: 2004/05
   taille: M
   type: Home
