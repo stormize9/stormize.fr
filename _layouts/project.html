@@ -22,6 +22,10 @@ layout: compress
   text-align: center;
 }
 
+.pagination a {
+
+  text-decoration: none; /* no underline */
+}
 
 </style>
 <!DOCTYPE html>
@@ -48,7 +52,7 @@ layout: compress
                         <p class=" is-uppercase has-text-grey" style="padding-bottom: 30px;
                     ">{{ site.data.projects | size }} shirts</p>
                     </p>
-                    <button type="button" class="btn btn-dark"  onclick="swap()">Filter</button>
+                    <!-- <button type="button" class="btn btn-dark"  onclick="swap()">Filter</button>
                     <div class="image_filter ">
                         <p id="champ_text" class="subtitle is-uppercase has-text-weight-medium has-text-grey is-centered">ALL SHIRTS</p>
                     </div>
@@ -61,41 +65,49 @@ layout: compress
                             {% for project in site.data.projects %}
                               {% unless unique_championnat contains project.championnat %}
                                 {% assign unique_championnat = unique_championnat | push: project.championnat %}
-                                <li><a style="text-decoration: none;" href="?championnat={{project.championnat}}">{{project.championnat}}</a></li>
+                                <li><a style="text-decoration: none;" href="/mykits?championnat={{project.championnat}}">{{project.championnat}}</a></li>
                               {% endunless %}
                             {% endfor %}
                           </ul>
                         </div>
-                        <div class="size">
-                          <form>
-                            <h1>Size</h1>
-                            <div class="toggle-group">
-                              <label for="S">S</label>
-                              <input type="checkbox" id="S" name="taille" value="S" class="toggle">
-                            </div>
-                            <div class="toggle-group">
-                              <label for="M">M</label>
-                              <input type="checkbox" id="M" name="taille" value="M" class="toggle">
-                            </div>
-                            <div class="toggle-group">
-                              <label for="L">L</label>
-                              <input type="checkbox" id="L" name="taille" value="L" class="toggle">
-                            </div>  
-                            <div class="toggle-group">
-                              <label for="XL">XL</label>
-                              <input type="checkbox" id="XL" name="taille" value="XL" class="toggle">
-                            </div>
-                            <input type="button" class="btn btn-dark" value="Confirm" onclick="recupererTailles()">
-                          </form>
-                        </div>
-                      </div>
+                      </div> -->
                     
                 </div>
                 
                 {% include project-card.html %}
+                <div class="pagination">
+                  <!-- <div> 
+                    <ul class="pagination"> 
+                     <li class="disabled"><a href="#">&laquo;</a></li> 
+                     <li class="active"><a href="#">1</a></li> 
+                     <li><a href="#">2</a></li> 
+                     <li><a href="#">3</a></li> 
+                     <li><a href="#">4</a></li> 
+                     <li><a href="#">5</a></li> 
+                     <li><a href="#">&raquo;</a></li> 
+                    </ul> 
+                   </div>    -->
+
+                    {% assign previous = page.nb | minus: 1 %}
+                    {% assign next = page.nb | plus: 1 %}
+                    {% if page.nb == 1 %} 
+                    <a href="{{ page.nb }}" class="btn btn-dark disabled" role="button">❮</a>
+                    {% elsif page.nb == 2 %}
+                    <a href="/mykits" class="btn btn-dark" role="button">❮</a>
+                    {% else %}
+                    <a href="page{{ previous }}" class="btn btn-dark" role="button">❮</a>
+                    {% endif %}
+
+                    {% if page.nb == 3 %} 
+                    <a href="{{ page.nb }}" class="btn btn-dark disabled" role="button">❯</a> 
+                    {% else %}
+                    <a href="page{{ next }}" class="btn btn-dark" role="button">❯</a> 
+                    {% endif %}
+                </div>
             </div>
         </div>
     </section>
+    </div>
     </div>
 
     <!--Footer-->

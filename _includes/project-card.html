@@ -1,6 +1,5 @@
-
 <div class="columns is-centered is-multiline is-mobile">
-  {% for project in site.data.projects %}
+  {% for project in site.data.projects offset: page.offset limit: page.limit %}
     {% assign file_exists = false %}
     {% assign image_path = "/assets/images/" | append: project.id | append: ".webp" %}
     {% for file in site.static_files %}
