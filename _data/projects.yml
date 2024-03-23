@@ -1,4 +1,46 @@
 - a_vendre: Non
+  achat: '23'
+  championnat: Premier League
+  club: Manchester City
+  data_achat: 03-2024
+  estimation: '30'
+  etat_flocage: N/A
+  etat_maillot: '9'
+  floque: N/A
+  id: '138'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2016/17
+  taille: L
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: '22'
+  championnat: Equipe Nationale
+  club: France
+  data_achat: 03-2024
+  estimation: '45'
+  etat_flocage: N/A
+  etat_maillot: '10'
+  floque: N/A
+  id: '137'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2016/17
+  taille: M
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
   achat: '130'
   championnat: Equipe Nationale
   club: France
@@ -256,7 +298,7 @@
   club: Barcelona
   data_achat: 09-2023
   estimation: "90 \u20AC"
-  etat_flocage: '8'
+  etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
   id: '124'
@@ -278,7 +320,7 @@
   data_achat: 09/2023
   estimation: "50 \u20AC"
   etat_flocage: N/A
-  etat_maillot: '9'
+  etat_maillot: '10'
   floque: N/A
   id: '123'
   joueur: N/A
@@ -361,13 +403,13 @@
   club: Barcelona
   data_achat: 07-2023
   estimation: "45 \u20AC"
-  etat_flocage: N/A
+  etat_flocage: '10'
   etat_maillot: '10'
-  floque: N/A
+  floque: Oui
   id: '119'
-  joueur: N/A
+  joueur: Lewandowski
   marque: Nike
-  numero: N/A
+  numero: '#9'
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
