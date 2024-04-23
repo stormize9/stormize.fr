@@ -1,5 +1,89 @@
 - a_vendre: Non
-  achat: '23'
+  achat: '20'
+  championnat: Liga
+  club: Barcelona
+  data_achat: 04-2024
+  estimation: '40'
+  etat_flocage: N/A
+  etat_maillot: '9'
+  floque: N/A
+  id: '142'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2016/17
+  taille: L
+  type: Home
+  vendu: Non
+  version: Replica
+- a_vendre: Oui
+  achat: '25'
+  championnat: Equipe Nationale
+  club: France
+  data_achat: 04-2024
+  estimation: '75'
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '141'
+  joueur: Antoine Griezmann
+  marque: Nike
+  numero: '#7'
+  patch: CDM
+  plateforme: Vinted
+  prix_de_vente: '75'
+  saison: 2018/19
+  taille: M
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: '30'
+  championnat: Equipe Nationale
+  club: France
+  data_achat: 04-2024
+  estimation: '65'
+  etat_flocage: N/A
+  etat_maillot: '10'
+  floque: N/A
+  id: '140'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: CDM
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2018/19
+  taille: L
+  type: Home
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: N/A
+  championnat: Premier League
+  club: Arsenal
+  data_achat: 03-2024
+  estimation: '110'
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '139'
+  joueur: Robert Pires
+  marque: Nike
+  numero: '#7'
+  patch: N/A
+  plateforme: CFS
+  prix_de_vente: N/A
+  saison: 2005/06
+  taille: L
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "23 \u20AC"
   championnat: Premier League
   club: Manchester City
   data_achat: 03-2024
@@ -20,7 +104,7 @@
   vendu: Non
   version: Replica
 - a_vendre: Non
-  achat: '22'
+  achat: "22 \u20AC"
   championnat: Equipe Nationale
   club: France
   data_achat: 03-2024
@@ -41,7 +125,7 @@
   vendu: Non
   version: Replica
 - a_vendre: Non
-  achat: '130'
+  achat: "130 \u20AC"
   championnat: Equipe Nationale
   club: France
   data_achat: 02-2024
@@ -62,7 +146,7 @@
   vendu: Non
   version: Replica centenaire
 - a_vendre: Oui
-  achat: '52'
+  achat: "52 \u20AC"
   championnat: Premier League
   club: Manchester United
   data_achat: 01-2024
@@ -83,7 +167,7 @@
   vendu: Non
   version: Replica
 - a_vendre: Non
-  achat: '115'
+  achat: "115 \u20AC"
   championnat: Ligue 1
   club: Caen
   data_achat: 02-2024
@@ -104,11 +188,11 @@
   vendu: Non
   version: Player Issue
 - a_vendre: Oui
-  achat: '28'
+  achat: "28 \u20AC"
   championnat: Liga
   club: Barcelone
   data_achat: 02-2024
-  estimation: "75 \u20AC"
+  estimation: "80 \u20AC"
   etat_flocage: '8'
   etat_maillot: '8'
   floque: Oui
@@ -118,14 +202,14 @@
   numero: '#10'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "75 \u20AC"
+  prix_de_vente: "80 \u20AC"
   saison: 2011/12
   taille: M
   type: Away
-  vendu: Non
+  vendu: Oui
   version: Replica
 - a_vendre: Non
-  achat: "50\u20AC"
+  achat: "50 \u20AC"
   championnat: Ligue 1
   club: Stade Rennais
   data_achat: 02-2024
@@ -146,19 +230,19 @@
   vendu: Non
   version: Replica
 - a_vendre: Non
-  achat: "40 \u20AC"
+  achat: "62 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 02-2024
-  estimation: "50 \u20AC"
-  etat_flocage: N/A
+  estimation: "90 \u20AC"
+  etat_flocage: '10'
   etat_maillot: '10'
-  floque: N/A
+  floque: Oui
   id: '131'
-  joueur: N/A
+  joueur: Lamine Yamal
   marque: Nike
-  numero: '#N/A'
-  patch: N/A
+  numero: '#27'
+  patch: Liga
   plateforme: Made In Sport
   prix_de_vente: N/A
   saison: 2023/24
@@ -166,22 +250,22 @@
   type: Away
   vendu: Non
   version: Player Issue
-- a_vendre: Non
-  achat: "30 \u20AC"
+- a_vendre: Oui
+  achat: "55 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 02-2024
-  estimation: "40 \u20AC"
-  etat_flocage: N/A
+  estimation: "60 \u20AC"
+  etat_flocage: '10'
   etat_maillot: '10'
-  floque: N/A
+  floque: Oui
   id: '130'
-  joueur: N/A
+  joueur: Frenkie De Jong
   marque: Nike
-  numero: '#N/A'
+  numero: '#21'
   patch: N/A
   plateforme: Made In Sport
-  prix_de_vente: N/A
+  prix_de_vente: "60 \u20AC"
   saison: 2023/24
   taille: L
   type: Third
