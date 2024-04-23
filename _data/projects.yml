@@ -3,7 +3,7 @@
   championnat: Liga
   club: Barcelona
   data_achat: 04-2024
-  estimation: '40'
+  estimation: "40 \u20AC"
   etat_flocage: N/A
   etat_maillot: '9'
   floque: N/A
@@ -24,7 +24,7 @@
   championnat: Equipe Nationale
   club: France
   data_achat: 04-2024
-  estimation: '75'
+  estimation: "75 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -45,7 +45,7 @@
   championnat: Equipe Nationale
   club: France
   data_achat: 04-2024
-  estimation: '65'
+  estimation: "65 \u20AC"
   etat_flocage: N/A
   etat_maillot: '10'
   floque: N/A
@@ -66,7 +66,7 @@
   championnat: Premier League
   club: Arsenal
   data_achat: 03-2024
-  estimation: '110'
+  estimation: "110 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -83,18 +83,18 @@
   vendu: Non
   version: Replica
 - a_vendre: Non
-  achat: "23 \u20AC"
+  achat: "28 \u20AC"
   championnat: Premier League
   club: Manchester City
   data_achat: 03-2024
-  estimation: '30'
-  etat_flocage: N/A
+  estimation: "60 \u20AC"
+  etat_flocage: '10'
   etat_maillot: '9'
-  floque: N/A
+  floque: Oui
   id: '138'
-  joueur: N/A
+  joueur: Sergio Aguero
   marque: Nike
-  numero: '#N/A'
+  numero: '#10'
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
@@ -108,7 +108,7 @@
   championnat: Equipe Nationale
   club: France
   data_achat: 03-2024
-  estimation: '45'
+  estimation: "45 \u20AC"
   etat_flocage: N/A
   etat_maillot: '10'
   floque: N/A
@@ -187,7 +187,7 @@
   type: Special
   vendu: Non
   version: Player Issue
-- a_vendre: Oui
+- a_vendre: Sold
   achat: "28 \u20AC"
   championnat: Liga
   club: Barcelone
