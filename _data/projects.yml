@@ -1,30 +1,261 @@
 - a_vendre: Non
-  achat: '20'
-  championnat: Liga
-  club: Barcelona
-  data_achat: 04-2024
-  estimation: "40 \u20AC"
+  achat: "23 \u20AC"
+  championnat: Equipe Nationale
+  club: Pays-Bas
+  data_achat: 05-2024
+  estimation: "30 \u20AC"
   etat_flocage: N/A
   etat_maillot: '9'
   floque: N/A
-  id: '142'
+  id: '153'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: N/A
+  plateforme: Leboncoin
+  prix_de_vente: N/A
+  saison: 2014/15
+  taille: M
+  type: Home
+  vendu: Non
+  version: Replica
+- a_vendre: Oui
+  achat: "23 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 05-2024
+  estimation: "70 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '152'
+  joueur: Philippe Coutinho
+  marque: Nike
+  numero: '#14'
+  patch: N/A
+  plateforme: Leboncoin
+  prix_de_vente: "65 \u20AC"
+  saison: 2017/18
+  taille: M
+  type: Away
+  vendu: Non
+  version: Player Issue
+- a_vendre: Oui
+  achat: "23 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 05-2024
+  estimation: "75 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '151'
+  joueur: Lionel Messi
+  marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Leboncoin
+  prix_de_vente: "75 \u20AC"
+  saison: 2016/17
+  taille: S
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "23 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 05-2024
+  estimation: "30 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: '8'
+  floque: N/A
+  id: '150'
   joueur: N/A
   marque: Nike
   numero: '#N/A'
   patch: Liga
+  plateforme: Leboncoin
+  prix_de_vente: N/A
+  saison: 2013/14
+  taille: M
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Oui
+  achat: "23 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 05-2024
+  estimation: "75 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '149'
+  joueur: Philippe Coutinho
+  marque: Nike
+  numero: '#7'
+  patch: Liga
+  plateforme: Leboncoin
+  prix_de_vente: "75 \u20AC"
+  saison: 2018/19
+  taille: M
+  type: Home
+  vendu: Non
+  version: Player Issue
+- a_vendre: Non
+  achat: "30 \u20AC"
+  championnat: Equipe Nationale
+  club: Bresil
+  data_achat: 05-2024
+  estimation: "60 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '148'
+  joueur: Philippe Coutinho
+  marque: Nike
+  numero: '#11'
+  patch: N/A
+  plateforme: Leboncoin
+  prix_de_vente: N/A
+  saison: 2017/18
+  taille: M
+  type: Away
+  vendu: Non
+  version: Player Issue
+- a_vendre: Non
+  achat: "30 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 05-2024
+  estimation: "60 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '147'
+  joueur: Carles Puyol
+  marque: Nike
+  numero: '#5'
+  patch: Liga
+  plateforme: Leboncoin
+  prix_de_vente: N/A
+  saison: 2013/14
+  taille: M
+  type: Third
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "30 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 05-2024
+  estimation: "75 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '146'
+  joueur: "Andr\xE8s Iniesta"
+  marque: Nike
+  numero: '#8'
+  patch: N/A
+  plateforme: Leboncoin
+  prix_de_vente: N/A
+  saison: 2017/18
+  taille: M
+  type: Away
+  vendu: Non
+  version: Player Issue
+- a_vendre: Oui
+  achat: "50 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 05-2024
+  estimation: "90 \u20AC"
+  etat_flocage: '10'
+  etat_maillot: '10'
+  floque: Oui
+  id: '145'
+  joueur: Neymar
+  marque: Nike
+  numero: '#11'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "90 \u20AC"
+  saison: 2014/15
+  taille: L
+  type: Away
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "88 \u20AC"
+  championnat: Equipe Nationale
+  club: Argentine
+  data_achat: 05-2024
+  estimation: '100'
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '144'
+  joueur: Lionel Messi
+  marque: Adidas
+  numero: '#19'
+  patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
+  saison: 2006/07
+  taille: M
+  type: Home
+  vendu: Non
+  version: Replica
+- a_vendre: Non
+  achat: "88 \u20AC"
+  championnat: Bundesliga
+  club: Dortmund
+  data_achat: 05-2024
+  estimation: '90'
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '143'
+  joueur: Robert Lewandowski
+  marque: Puma
+  numero: '#9'
+  patch: N/A
+  plateforme: Vinted
+  prix_de_vente: N/A
+  saison: 2013/14
+  taille: M
+  type: Home
+  vendu: Non
+  version: Replica
+- a_vendre: Oui
+  achat: "37 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 04-2024
+  estimation: "75 \u20AC"
+  etat_flocage: '10'
+  etat_maillot: '9'
+  floque: Oui
+  id: '142'
+  joueur: Lionel Messi
+  marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "80 \u20AC"
   saison: 2016/17
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Oui
-  achat: '25'
+- a_vendre: Sold
+  achat: "25 \u20AC"
   championnat: Equipe Nationale
   club: France
   data_achat: 04-2024
-  estimation: "75 \u20AC"
+  estimation: "60 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -34,14 +265,14 @@
   numero: '#7'
   patch: CDM
   plateforme: Vinted
-  prix_de_vente: '75'
+  prix_de_vente: "60 \u20AC"
   saison: 2018/19
   taille: M
   type: Away
-  vendu: Non
+  vendu: Oui
   version: Replica
 - a_vendre: Non
-  achat: '30'
+  achat: "30 \u20AC"
   championnat: Equipe Nationale
   club: France
   data_achat: 04-2024
@@ -134,7 +365,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '136'
-  joueur: "Mbapp\xE9"
+  joueur: "Kyllian Mbapp\xE9"
   marque: Nike
   numero: '#10'
   patch: N/A
@@ -155,7 +386,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '135'
-  joueur: Pogba
+  joueur: Paul Pogba
   marque: Adidas
   numero: '#6'
   patch: N/A
@@ -190,14 +421,14 @@
 - a_vendre: Sold
   achat: "28 \u20AC"
   championnat: Liga
-  club: Barcelone
+  club: Barcelona
   data_achat: 02-2024
   estimation: "80 \u20AC"
   etat_flocage: '8'
   etat_maillot: '8'
   floque: Oui
   id: '133'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -218,7 +449,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '132'
-  joueur: "E. Le F\xE9e"
+  joueur: "Enzo Le F\xE9e"
   marque: Puma
   numero: '#28'
   patch: Ligue 1
@@ -281,7 +512,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '129'
-  joueur: J. Cancelo
+  joueur: Joao Cancelo
   marque: Adidas
   numero: '#20'
   patch: Serie A + Copa
@@ -302,7 +533,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '128'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -323,7 +554,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '127'
-  joueur: Henry
+  joueur: Thierry Henry
   marque: Nike
   numero: '#14'
   patch: PL
@@ -344,7 +575,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '126'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -386,7 +617,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '124'
-  joueur: Iniesta
+  joueur: "Andr\xE8s Iniesta"
   marque: Nike
   numero: '#8'
   patch: Liga
@@ -428,7 +659,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '122'
-  joueur: "Tchouam\xE9ni"
+  joueur: "Aur\xE9lien Tchouameni"
   marque: Nike
   numero: '#8'
   patch: Nation/UEFA
@@ -449,7 +680,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '121'
-  joueur: Giroud
+  joueur: Olivier Giroud
   marque: Nike
   numero: '#9'
   patch: WC
@@ -491,7 +722,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '119'
-  joueur: Lewandowski
+  joueur: Robert Lewandowski
   marque: Nike
   numero: '#9'
   patch: N/A
@@ -533,7 +764,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '117'
-  joueur: Gundogan
+  joueur: "\u0130lkay G\xFCndo\u011Fan"
   marque: Puma
   numero: '#8'
   patch: LDC
@@ -554,7 +785,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '116'
-  joueur: Salah
+  joueur: Mohamed Salah
   marque: Nike
   numero: '#11'
   patch: PL
@@ -575,7 +806,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '115'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -596,7 +827,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '114'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: N/A
@@ -638,7 +869,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '112'
-  joueur: Iniesta
+  joueur: "Andr\xE8s Iniesta"
   marque: Nike
   numero: '#8'
   patch: Liga
@@ -701,7 +932,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '109'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Adidas
   numero: '#10'
   patch: WC Win
@@ -722,13 +953,13 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '107'
-  joueur: Bernardo
+  joueur: Bernardo Silva
   marque: Nike
   numero: '#10'
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2015/16
+  saison: 2016/17
   taille: M
   type: Home
   vendu: Non
@@ -743,7 +974,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '106'
-  joueur: De Bruyne
+  joueur: Kevin De Bruyne
   marque: Nike
   numero: '#17'
   patch: PL
@@ -764,7 +995,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '22'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#30'
   patch: Liga
@@ -785,7 +1016,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '108'
-  joueur: Iniesta
+  joueur: "Andr\xE8s Iniesta"
   marque: Nike
   numero: '#8'
   patch: Liga
@@ -869,7 +1100,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '72'
-  joueur: v. Persie
+  joueur: Robin van Persie
   marque: Nike
   numero: '#11'
   patch: PL
@@ -911,7 +1142,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '104'
-  joueur: M'Villa
+  joueur: Yann M'Villa
   marque: Adidas
   numero: '#6'
   patch: N/A
@@ -932,7 +1163,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '95'
-  joueur: Robben
+  joueur: Arjen Robben
   marque: Adidas
   numero: '#10'
   patch: N/A
@@ -953,7 +1184,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '66'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -974,7 +1205,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '38'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga + 3
@@ -995,7 +1226,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '23'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#30'
   patch: Liga
@@ -1016,7 +1247,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '81'
-  joueur: Ronaldo
+  joueur: Cristiano Ronaldo
   marque: Nike
   numero: '#7'
   patch: PL
@@ -1037,7 +1268,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '92'
-  joueur: "Tchouam\xE9ni"
+  joueur: "Aur\xE9lien Tchouameni"
   marque: Kappa
   numero: '#8'
   patch: N/A
@@ -1058,7 +1289,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '61'
-  joueur: "Piqu\xE9"
+  joueur: "Gerard Piqu\xE9"
   marque: Nike
   numero: '#3'
   patch: Liga
@@ -1079,7 +1310,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '45'
-  joueur: Suarez
+  joueur: Luis Suarez
   marque: Nike
   numero: '#9'
   patch: N/A
@@ -1100,7 +1331,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '87'
-  joueur: Pogba
+  joueur: Paul Pogba
   marque: Adidas
   numero: '#6'
   patch: N/A
@@ -1121,7 +1352,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '78'
-  joueur: Hazard
+  joueur: Eden Hazard
   marque: Adidas
   numero: '#17'
   patch: PL
@@ -1142,7 +1373,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '51'
-  joueur: Iniesta
+  joueur: "Andr\xE8s Iniesta"
   marque: Nike
   numero: '#8'
   patch: Liga
@@ -1163,7 +1394,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '102'
-  joueur: De Ligt
+  joueur: Matthijs de Ligt
   marque: Adidas
   numero: '#4'
   patch: Serie A
@@ -1226,7 +1457,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '17'
-  joueur: "Kant\xE9"
+  joueur: "N'Golo Kant\xE9"
   marque: Nike
   numero: '#13'
   patch: WC
@@ -1247,7 +1478,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '16'
-  joueur: Griezmann
+  joueur: Antoine Griezmann
   marque: Nike
   numero: '#7'
   patch: WC
@@ -1268,7 +1499,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '6'
-  joueur: Henry
+  joueur: Thierry Henry
   marque: Adidas
   numero: '#14'
   patch: N/A
@@ -1289,7 +1520,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '4'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Adidas
   numero: '#10'
   patch: N/A
@@ -1331,7 +1562,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '2'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Adidas
   numero: '#10'
   patch: N/A
@@ -1352,7 +1583,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '64'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: CL
@@ -1373,7 +1604,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '57'
-  joueur: Coutinho
+  joueur: Philippe Coutinho
   marque: Nike
   numero: '#8'
   patch: N/A
@@ -1394,7 +1625,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '56'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -1415,7 +1646,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '54'
-  joueur: Dembele
+  joueur: "Ousmane Demb\xE9l\xE9"
   marque: Nike
   numero: '#11'
   patch: Liga
@@ -1478,7 +1709,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '48'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: N/A
@@ -1520,7 +1751,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '31'
-  joueur: Iniesta
+  joueur: "Andr\xE8s Iniesta"
   marque: Nike
   numero: '#8'
   patch: Liga
@@ -1562,7 +1793,7 @@
   etat_maillot: '8'
   floque: Oui
   id: '28'
-  joueur: Ibrahimovic
+  joueur: Zlatan Ibrahimovic
   marque: Nike
   numero: '#9'
   patch: Liga
@@ -1583,7 +1814,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '25'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#19'
   patch: Liga
@@ -1604,7 +1835,7 @@
   etat_maillot: '8'
   floque: Oui
   id: '7'
-  joueur: Ribery
+  joueur: Franck Ribery
   marque: Adidas
   numero: '#22'
   patch: N/A
@@ -1625,7 +1856,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '101'
-  joueur: Dybala
+  joueur: Paulo Dybala
   marque: Adidas
   numero: '#10'
   patch: CL
@@ -1646,7 +1877,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '75'
-  joueur: S. Cazorla
+  joueur: Santi Cazorla
   marque: Puma
   numero: '#19'
   patch: PL
@@ -1709,7 +1940,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '71'
-  joueur: Henry
+  joueur: Thierry Henry
   marque: Nike
   numero: '#14'
   patch: N/A
@@ -1793,7 +2024,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '63'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -1814,7 +2045,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '58'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -1835,7 +2066,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '34'
-  joueur: Alexis
+  joueur: Alexis Sanchez
   marque: Nike
   numero: '#9'
   patch: Liga + 3 + WC
@@ -1856,7 +2087,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '5'
-  joueur: Kimmich
+  joueur: Joshua Kimmich
   marque: Adidas
   numero: '#6'
   patch: N/A
@@ -1877,7 +2108,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '67'
-  joueur: Depay
+  joueur: Memphis Depay
   marque: Nike
   numero: '#9'
   patch: Liga
@@ -1919,7 +2150,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '50'
-  joueur: Busquets
+  joueur: Sergio Busquets
   marque: Nike
   numero: '#5'
   patch: Copa del Rey
@@ -1961,7 +2192,7 @@
   etat_maillot: '8.5'
   floque: Oui
   id: '33'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga + WC
@@ -1982,7 +2213,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '27'
-  joueur: Eto'o
+  joueur: Samuel Eto'o
   marque: Nike
   numero: '#9'
   patch: Liga
@@ -2003,7 +2234,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '86'
-  joueur: Ibrahimovic
+  joueur: Zlatan Ibrahimovic
   marque: Adidas
   numero: '#9'
   patch: PL
@@ -2045,7 +2276,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '60'
-  joueur: F. De Jong
+  joueur: Frenkie De Jong
   marque: Nike
   numero: '#21'
   patch: Liga
@@ -2066,7 +2297,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '14'
-  joueur: Griezmann
+  joueur: Antoine Griezmann
   marque: Nike
   numero: '#7'
   patch: N/A
@@ -2087,7 +2318,7 @@
   etat_maillot: '8.5'
   floque: Oui
   id: '21'
-  joueur: Puyol
+  joueur: Carles Puyol
   marque: Nike
   numero: '#5'
   patch: Liga
@@ -2108,7 +2339,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '30'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga + WC
@@ -2150,7 +2381,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '13'
-  joueur: Varane
+  joueur: Raphael Varane
   marque: Nike
   numero: '#4'
   patch: N/A
@@ -2171,7 +2402,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '8'
-  joueur: Diaby
+  joueur: Abou Diaby
   marque: Adidas
   numero: '#19'
   patch: N/A
@@ -2192,7 +2423,7 @@
   etat_maillot: '7'
   floque: Oui
   id: '3'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Adidas
   numero: '#10'
   patch: N/A
@@ -2213,7 +2444,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '43'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -2234,7 +2465,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '37'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga + 3
@@ -2255,7 +2486,7 @@
   etat_maillot: '10'
   floque: Oui
   id: '15'
-  joueur: Pogba
+  joueur: Paul Pogba
   marque: Nike
   numero: '#6'
   patch: N/A
@@ -2297,7 +2528,7 @@
   etat_maillot: '8'
   floque: Oui
   id: '11'
-  joueur: Pogba
+  joueur: Paul Pogba
   marque: Nike
   numero: '#19'
   patch: N/A
@@ -2339,7 +2570,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '96'
-  joueur: Lewandowski
+  joueur: Robert Lewandowski
   marque: Adidas
   numero: '#9'
   patch: N/A
@@ -2423,7 +2654,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '26'
-  joueur: Messi
+  joueur: Lionel Messi
   marque: Nike
   numero: '#10'
   patch: Liga
@@ -2486,7 +2717,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '85'
-  joueur: Pogba
+  joueur: Paul Pogba
   marque: Adidas
   numero: '#6'
   patch: N/A
@@ -2507,7 +2738,7 @@
   etat_maillot: '8'
   floque: Oui
   id: '82'
-  joueur: Ronaldo
+  joueur: Cristiano Ronaldo
   marque: Nike
   numero: '#7'
   patch: N/A
@@ -2528,7 +2759,7 @@
   etat_maillot: '7'
   floque: Oui
   id: '74'
-  joueur: Fabregas
+  joueur: Cesc Fabregas
   marque: Nike
   numero: '#4'
   patch: PL
@@ -2570,7 +2801,7 @@
   etat_maillot: '8.5'
   floque: Oui
   id: '94'
-  joueur: Ribery
+  joueur: Franck Ribery
   marque: Adidas
   numero: '#7'
   patch: N/A
@@ -2612,7 +2843,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '46'
-  joueur: Suarez
+  joueur: Luis Suarez
   marque: Nike
   numero: '#9'
   patch: Liga
@@ -2633,7 +2864,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '18'
-  joueur: Pogba
+  joueur: Paul Pogba
   marque: Nike
   numero: '#6'
   patch: N/A
@@ -2654,7 +2885,7 @@
   etat_maillot: '9.5'
   floque: Oui
   id: '59'
-  joueur: F. De Jong
+  joueur: Frenkie De Jong
   marque: Nike
   numero: '#21'
   patch: N/A
@@ -2696,7 +2927,7 @@
   etat_maillot: '9'
   floque: Oui
   id: '53'
-  joueur: Suarez
+  joueur: Luis Suarez
   marque: Nike
   numero: '#9'
   patch: Liga
@@ -2969,7 +3200,7 @@
   etat_maillot: '8'
   floque: Oui
   id: '1'
-  joueur: Rooney
+  joueur: Wayne Rooney
   marque: Umbro
   numero: '#9'
   patch: N/A
