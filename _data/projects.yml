@@ -1,4 +1,28 @@
-- a_vendre: Non
+- ' ': 2023/24
+  Benef: ''
+  a_vendre: Non
+  achat: "50 \u20AC"
+  championnat: Liga
+  club: Majorque
+  data_achat: 06-2024
+  estimation: "40 \u20AC"
+  etat_flocage: N/A
+  etat_maillot: '10'
+  floque: N/A
+  id: '154'
+  joueur: N/A
+  marque: Nike
+  numero: '#N/A'
+  patch: Liga
+  plateforme: Boutique
+  prix_de_vente: N/A
+  taille: M
+  type: Home
+  vendu: Non
+  version: Replica
+- ' ': 2014/15
+  Benef: Non vendu
+  a_vendre: Non
   achat: "23 \u20AC"
   championnat: Equipe Nationale
   club: Pays-Bas
@@ -14,12 +38,13 @@
   patch: N/A
   plateforme: Leboncoin
   prix_de_vente: N/A
-  saison: 2014/15
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Oui
+- ' ': 2017/18
+  Benef: Non vendu
+  a_vendre: Oui
   achat: "23 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -34,18 +59,19 @@
   numero: '#14'
   patch: N/A
   plateforme: Leboncoin
-  prix_de_vente: "65 \u20AC"
-  saison: 2017/18
+  prix_de_vente: N/A
   taille: M
   type: Away
   vendu: Non
   version: Player Issue
-- a_vendre: Oui
+- ' ': 2016/17
+  Benef: "45 \u20AC"
+  a_vendre: Sold
   achat: "23 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 05-2024
-  estimation: "75 \u20AC"
+  estimation: "68 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -55,13 +81,14 @@
   numero: '#10'
   patch: Liga
   plateforme: Leboncoin
-  prix_de_vente: "75 \u20AC"
-  saison: 2016/17
+  prix_de_vente: "68 \u20AC"
   taille: S
   type: Away
-  vendu: Non
+  vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2013/14
+  Benef: Non vendu
+  a_vendre: Non
   achat: "23 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -77,17 +104,18 @@
   patch: Liga
   plateforme: Leboncoin
   prix_de_vente: N/A
-  saison: 2013/14
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Oui
+- ' ': 2018/19
+  Benef: "45 \u20AC"
+  a_vendre: Sold
   achat: "23 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 05-2024
-  estimation: "75 \u20AC"
+  estimation: "68 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -97,13 +125,14 @@
   numero: '#7'
   patch: Liga
   plateforme: Leboncoin
-  prix_de_vente: "75 \u20AC"
-  saison: 2018/19
+  prix_de_vente: "68 \u20AC"
   taille: M
   type: Home
-  vendu: Non
+  vendu: Oui
   version: Player Issue
-- a_vendre: Non
+- ' ': 2017/18
+  Benef: Non vendu
+  a_vendre: Oui
   achat: "30 \u20AC"
   championnat: Equipe Nationale
   club: Bresil
@@ -118,18 +147,19 @@
   numero: '#11'
   patch: N/A
   plateforme: Leboncoin
-  prix_de_vente: N/A
-  saison: 2017/18
+  prix_de_vente: "70 \u20AC"
   taille: M
   type: Away
   vendu: Non
   version: Player Issue
-- a_vendre: Non
+- ' ': 2013/14
+  Benef: "38 \u20AC"
+  a_vendre: Sold
   achat: "30 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 05-2024
-  estimation: "60 \u20AC"
+  estimation: "68 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -139,13 +169,14 @@
   numero: '#5'
   patch: Liga
   plateforme: Leboncoin
-  prix_de_vente: N/A
-  saison: 2013/14
+  prix_de_vente: "68 \u20AC"
   taille: M
   type: Third
-  vendu: Non
+  vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2017/18
+  Benef: Non vendu
+  a_vendre: Non
   achat: "30 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -161,17 +192,18 @@
   patch: N/A
   plateforme: Leboncoin
   prix_de_vente: N/A
-  saison: 2017/18
   taille: M
   type: Away
   vendu: Non
   version: Player Issue
-- a_vendre: Oui
+- ' ': 2014/15
+  Benef: "30 \u20AC"
+  a_vendre: Sold
   achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 05-2024
-  estimation: "90 \u20AC"
+  estimation: "80 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
   floque: Oui
@@ -181,18 +213,19 @@
   numero: '#11'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "90 \u20AC"
-  saison: 2014/15
+  prix_de_vente: "80 \u20AC"
   taille: L
   type: Away
-  vendu: Non
+  vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2006/07
+  Benef: Non vendu
+  a_vendre: Non
   achat: "88 \u20AC"
   championnat: Equipe Nationale
   club: Argentine
   data_achat: 05-2024
-  estimation: '100'
+  estimation: "100 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -203,17 +236,18 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2006/07
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2013/14
+  Benef: Non vendu
+  a_vendre: Non
   achat: "88 \u20AC"
   championnat: Bundesliga
   club: Dortmund
   data_achat: 05-2024
-  estimation: '90'
+  estimation: "90 \u20AC"
   etat_flocage: '9'
   etat_maillot: '9'
   floque: Oui
@@ -224,17 +258,18 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2013/14
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Oui
+- ' ': 2016/17
+  Benef: "31 \u20AC"
+  a_vendre: Sold
   achat: "37 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 04-2024
-  estimation: "75 \u20AC"
+  estimation: "68 \u20AC"
   etat_flocage: '10'
   etat_maillot: '9'
   floque: Oui
@@ -244,13 +279,14 @@
   numero: '#10'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "80 \u20AC"
-  saison: 2016/17
+  prix_de_vente: "68 \u20AC"
   taille: L
   type: Home
-  vendu: Non
+  vendu: Oui
   version: Replica
-- a_vendre: Sold
+- ' ': 2018/19
+  Benef: "35 \u20AC"
+  a_vendre: Sold
   achat: "25 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -266,33 +302,35 @@
   patch: CDM
   plateforme: Vinted
   prix_de_vente: "60 \u20AC"
-  saison: 2018/19
   taille: M
   type: Away
   vendu: Oui
   version: Replica
-- a_vendre: Non
-  achat: "30 \u20AC"
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
+  achat: "55 \u20AC"
   championnat: Equipe Nationale
   club: France
   data_achat: 04-2024
-  estimation: "65 \u20AC"
-  etat_flocage: N/A
+  estimation: "90 \u20AC"
+  etat_flocage: '10'
   etat_maillot: '10'
-  floque: N/A
+  floque: Oui
   id: '140'
-  joueur: N/A
+  joueur: Paul Pogba
   marque: Nike
-  numero: '#N/A'
+  numero: '#6'
   patch: CDM
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2018/19
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2005/06
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Arsenal
@@ -308,12 +346,13 @@
   patch: N/A
   plateforme: CFS
   prix_de_vente: N/A
-  saison: 2005/06
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "28 \u20AC"
   championnat: Premier League
   club: Manchester City
@@ -329,33 +368,35 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2016/17
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
-  achat: "22 \u20AC"
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
+  achat: "46 \u20AC"
   championnat: Equipe Nationale
   club: France
   data_achat: 03-2024
-  estimation: "45 \u20AC"
-  etat_flocage: N/A
+  estimation: "75 \u20AC"
+  etat_flocage: '10'
   etat_maillot: '10'
-  floque: N/A
+  floque: Oui
   id: '137'
-  joueur: N/A
+  joueur: Paul Pogba
   marque: Nike
-  numero: '#N/A'
+  numero: '#15'
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2016/17
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2019/20
+  Benef: Non vendu
+  a_vendre: Non
   achat: "130 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -371,17 +412,18 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2019/20
   taille: M
   type: Special
   vendu: Non
   version: Replica centenaire
-- a_vendre: Oui
+- ' ': 2019/20
+  Benef: "3 \u20AC"
+  a_vendre: Sold
   achat: "52 \u20AC"
   championnat: Premier League
   club: Manchester United
   data_achat: 01-2024
-  estimation: "70 \u20AC"
+  estimation: "55 \u20AC"
   etat_flocage: '9'
   etat_maillot: '10'
   floque: Oui
@@ -391,13 +433,14 @@
   numero: '#6'
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: "70 \u20AC"
-  saison: 2019/20
+  prix_de_vente: "55 \u20AC"
   taille: L
   type: Home
-  vendu: Non
+  vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2023/24
+  Benef: Non vendu
+  a_vendre: Non
   achat: "115 \u20AC"
   championnat: Ligue 1
   club: Caen
@@ -413,17 +456,18 @@
   patch: N/A
   plateforme: Kappa
   prix_de_vente: N/A
-  saison: 2023/24
   taille: L
   type: Special
   vendu: Non
   version: Player Issue
-- a_vendre: Sold
+- ' ': 2011/12
+  Benef: "37 \u20AC"
+  a_vendre: Sold
   achat: "28 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 02-2024
-  estimation: "80 \u20AC"
+  estimation: "65 \u20AC"
   etat_flocage: '8'
   etat_maillot: '8'
   floque: Oui
@@ -433,13 +477,14 @@
   numero: '#10'
   patch: Liga
   plateforme: Vinted
-  prix_de_vente: "80 \u20AC"
-  saison: 2011/12
+  prix_de_vente: "65 \u20AC"
   taille: M
   type: Away
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2023/24
+  Benef: Non vendu
+  a_vendre: Non
   achat: "50 \u20AC"
   championnat: Ligue 1
   club: Stade Rennais
@@ -455,12 +500,13 @@
   patch: Ligue 1
   plateforme: Made In Sport
   prix_de_vente: N/A
-  saison: 2023/24
   taille: L
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2023/24
+  Benef: Non vendu
+  a_vendre: Non
   achat: "62 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -476,17 +522,18 @@
   patch: Liga
   plateforme: Made In Sport
   prix_de_vente: N/A
-  saison: 2023/24
   taille: L
   type: Away
   vendu: Non
   version: Player Issue
-- a_vendre: Oui
+- ' ': 2023/24
+  Benef: "-15 \u20AC"
+  a_vendre: Sold
   achat: "55 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 02-2024
-  estimation: "60 \u20AC"
+  estimation: "40 \u20AC"
   etat_flocage: '10'
   etat_maillot: '10'
   floque: Oui
@@ -496,13 +543,14 @@
   numero: '#21'
   patch: N/A
   plateforme: Made In Sport
-  prix_de_vente: "60 \u20AC"
-  saison: 2023/24
+  prix_de_vente: "40 \u20AC"
   taille: L
   type: Third
-  vendu: Non
+  vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
   achat: "40 \u20AC"
   championnat: Serie A
   club: Juventus
@@ -518,12 +566,13 @@
   patch: Serie A + Copa
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2018/19
   taille: M
   type: Home
   vendu: Non
   version: Player Issue
-- a_vendre: Non
+- ' ': 2009/10
+  Benef: Non vendu
+  a_vendre: Non
   achat: "120 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -539,12 +588,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2009/10
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2005/06
+  Benef: Non vendu
+  a_vendre: Non
   achat: "130 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -560,12 +610,13 @@
   patch: PL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2005/06
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2017/18
+  Benef: Non vendu
+  a_vendre: Non
   achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -581,12 +632,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2017/18
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2017/18
+  Benef: Non vendu
+  a_vendre: Non
   achat: "25 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -602,12 +654,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2017/18
   taille: M
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2008/09
+  Benef: Non vendu
+  a_vendre: Non
   achat: "98 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -623,12 +676,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2008/09
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "30 \u20AC"
   championnat: Eredevise
   club: Ajax Amsterdam
@@ -644,12 +698,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2022/23
   taille: M
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "65 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -665,12 +720,13 @@
   patch: Nation/UEFA
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2022/23
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "45 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -686,12 +742,13 @@
   patch: WC
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2022/23
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "30 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -707,12 +764,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2022/23
   taille: L
   type: Fourth
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "30 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -728,12 +786,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2022/23
   taille: L
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "60 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -749,12 +808,13 @@
   patch: Supcopa
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2022/23
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "130 \u20AC"
   championnat: Premier League
   club: Manchester City
@@ -770,12 +830,13 @@
   patch: LDC
   plateforme: Manchester City Store
   prix_de_vente: N/A
-  saison: 2022/23
   taille: L
   type: Home
   vendu: Non
   version: Replica L/S
-- a_vendre: Non
+- ' ': 2021/22
+  Benef: Non vendu
+  a_vendre: Non
   achat: "56 \u20AC"
   championnat: Premier League
   club: Liverpool
@@ -791,12 +852,13 @@
   patch: PL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2021/22
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2019/22
+  Benef: Non vendu
+  a_vendre: Non
   achat: "71 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -812,12 +874,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2019/22
   taille: M
   type: Fourth
   vendu: Non
   version: Player issue
-- a_vendre: Sold
+- ' ': 2015/16
+  Benef: "35 \u20AC"
+  a_vendre: Sold
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -833,12 +896,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: "80 \u20AC"
-  saison: 2015/16
   taille: M
   type: Away
   vendu: Oui
   version: Player issue
-- a_vendre: Non
+- ' ': 1996/97
+  Benef: Non vendu
+  a_vendre: Non
   achat: "150 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -854,12 +918,13 @@
   patch: N/A
   plateforme: Vintage Football Area
   prix_de_vente: N/A
-  saison: 1996/97
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "72 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -875,12 +940,13 @@
   patch: Liga
   plateforme: Classic Football Shirts
   prix_de_vente: N/A
-  saison: 2016/17
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2012/13
+  Benef: Non vendu
+  a_vendre: Non
   achat: "25 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -896,12 +962,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2012/13
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2014/15
+  Benef: "25 \u20AC"
+  a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -917,12 +984,13 @@
   patch: Liga
   plateforme: Leboncoin
   prix_de_vente: "60 \u20AC"
-  saison: 2014/15
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "105 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
@@ -938,12 +1006,13 @@
   patch: WC Win
   plateforme: Subside Sports
   prix_de_vente: N/A
-  saison: 2022/23
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "53 \u20AC"
   championnat: Ligue 1
   club: AS Monaco
@@ -959,12 +1028,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2016/17
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2015/16
+  Benef: Non vendu
+  a_vendre: Non
   achat: "35 \u20AC"
   championnat: Premier League
   club: Manchester City
@@ -980,12 +1050,13 @@
   patch: PL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2015/16
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2005/06
+  Benef: Non vendu
+  a_vendre: Non
   achat: "150 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1001,12 +1072,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2005/06
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2010/11
+  Benef: "15 \u20AC"
+  a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1022,12 +1094,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "50 \u20AC"
-  saison: 2010/11
   taille: L
   type: Away
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "27 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -1043,12 +1116,13 @@
   patch: N/A
   plateforme: ABOUT YOU
   prix_de_vente: N/A
-  saison: 2022/23
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2010/11
+  Benef: Non vendu
+  a_vendre: Non
   achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1064,12 +1138,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2010/11
   taille: M
   type: Away
   vendu: Non
   version: Replica L/S
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1085,12 +1160,13 @@
   patch: Liga
   plateforme: Nike
   prix_de_vente: N/A
-  saison: 2022/23
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2004/05
+  Benef: Non vendu
+  a_vendre: Non
   achat: "120 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -1106,12 +1182,13 @@
   patch: PL
   plateforme: Vintage Velti Football
   prix_de_vente: N/A
-  saison: 2004/05
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2013/14
+  Benef: Non vendu
+  a_vendre: Non
   achat: "24 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1127,12 +1204,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2013/14
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2022/23
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Hellas Liga
   club: Olympiakos
@@ -1148,12 +1226,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2022/23
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2014/15
+  Benef: Non vendu
+  a_vendre: Non
   achat: "70 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -1169,12 +1248,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2014/15
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2020/21
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -1190,12 +1270,13 @@
   patch: Liga
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2020/21
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2012/13
+  Benef: Non vendu
+  a_vendre: Non
   achat: "55 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1211,12 +1292,13 @@
   patch: Liga + 3
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2012/13
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2005/06
+  Benef: Non vendu
+  a_vendre: Non
   achat: "130 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1232,12 +1314,13 @@
   patch: Liga
   plateforme: Vintage Football Area
   prix_de_vente: N/A
-  saison: 2005/06
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2003/04
+  Benef: Non vendu
+  a_vendre: Non
   achat: "120 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -1253,12 +1336,13 @@
   patch: PL
   plateforme: Vintage Velti Football
   prix_de_vente: N/A
-  saison: 2003/04
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2021/22
+  Benef: Non vendu
+  a_vendre: Non
   achat: "60 \u20AC"
   championnat: Ligue 1
   club: AS Monaco
@@ -1274,12 +1358,13 @@
   patch: N/A
   plateforme: Monaco Store
   prix_de_vente: N/A
-  saison: 2021/22
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2019/20
+  Benef: Non vendu
+  a_vendre: Non
   achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1295,12 +1380,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2019/20
   taille: M
   type: Home
   vendu: Non
   version: Replica L/S
-- a_vendre: Non
+- ' ': 2014/15
+  Benef: Non vendu
+  a_vendre: Non
   achat: "60 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1316,12 +1402,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2014/15
   taille: M
   type: Third
   vendu: Non
   version: Player issue
-- a_vendre: Non
+- ' ': 2019/20
+  Benef: Non vendu
+  a_vendre: Non
   achat: "25 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -1337,12 +1424,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2019/20
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2012/13
+  Benef: Non vendu
+  a_vendre: Non
   achat: "35 \u20AC"
   championnat: Premier League
   club: Chelsea
@@ -1358,12 +1446,13 @@
   patch: PL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2012/13
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2016/17
+  Benef: "5 \u20AC"
+  a_vendre: Sold
   achat: "55 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1379,12 +1468,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "60 \u20AC"
-  saison: 2016/17
   taille: L
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Sold
+- ' ': 2019/20
+  Benef: "19 \u20AC"
+  a_vendre: Sold
   achat: "21 \u20AC"
   championnat: Serie A
   club: Juventus de Turin
@@ -1400,12 +1490,13 @@
   patch: Serie A
   plateforme: Vinted
   prix_de_vente: "40 \u20AC"
-  saison: 2019/20
   taille: M
   type: Away
   vendu: Oui
   version: Replica
-- a_vendre: Sold
+- ' ': 2013/14
+  Benef: "32 \u20AC"
+  a_vendre: Sold
   achat: "13 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1421,12 +1512,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "45 \u20AC"
-  saison: 2013/14
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2012/13
+  Benef: Non vendu
+  a_vendre: Non
   achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1442,12 +1534,13 @@
   patch: WC + Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2012/13
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
   achat: "40 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1463,12 +1556,13 @@
   patch: WC
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2018/19
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
   achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1484,12 +1578,13 @@
   patch: WC
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2018/19
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2006/07
+  Benef: Non vendu
+  a_vendre: Non
   achat: "85 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1505,12 +1600,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2006/07
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2021/22
+  Benef: Non vendu
+  a_vendre: Non
   achat: "100 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
@@ -1526,12 +1622,13 @@
   patch: N/A
   plateforme: Classic Football Shirts
   prix_de_vente: N/A
-  saison: 2021/22
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Nonn
+- ' ': 2006/07
+  Benef: Non vendu
+  a_vendre: Non
   achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1547,12 +1644,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2006/07
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2009/10
+  Benef: "21 \u20AC"
+  a_vendre: Sold
   achat: "25 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
@@ -1568,12 +1666,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: "46 \u20AC"
-  saison: 2009/10
   taille: L
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2020/21
+  Benef: Non vendu
+  a_vendre: Non
   achat: "50 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1589,12 +1688,13 @@
   patch: CL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2020/21
   taille: L
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2018/19
+  Benef: "35 \u20AC"
+  a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1610,12 +1710,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: "50 \u20AC"
-  saison: 2018/19
   taille: L
   type: Third
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
   achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1631,12 +1732,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2018/19
   taille: L
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2017/18
+  Benef: "34 \u20AC"
+  a_vendre: Sold
   achat: "11 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1652,12 +1754,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "45 \u20AC"
-  saison: 2017/18
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1673,12 +1776,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2016/17
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2015/16
+  Benef: Non vendu
+  a_vendre: Non
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1694,12 +1798,13 @@
   patch: WC + CL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2015/16
   taille: L
   type: Third
   vendu: Non
   version: Player issue
-- a_vendre: Non
+- ' ': 2015/16
+  Benef: Non vendu
+  a_vendre: Non
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1715,12 +1820,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2015/16
   taille: M
   type: Away
   vendu: Non
   version: Player issue
-- a_vendre: Non
+- ' ': 2014/15
+  Benef: Non vendu
+  a_vendre: Non
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1736,12 +1842,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2014/15
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2010/11
+  Benef: Non vendu
+  a_vendre: Non
   achat: "135 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1757,12 +1864,13 @@
   patch: Liga
   plateforme: Vintage Football Area
   prix_de_vente: N/A
-  saison: 2010/11
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2009/10
+  Benef: "15 \u20AC"
+  a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1778,12 +1886,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "50 \u20AC"
-  saison: 2009/10
   taille: L
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Sold
+- ' ': 2009/10
+  Benef: "15 \u20AC"
+  a_vendre: Sold
   achat: "35 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1799,12 +1908,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "50 \u20AC"
-  saison: 2009/10
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2007/8
+  Benef: Non vendu
+  a_vendre: Non
   achat: "87 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1820,12 +1930,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2007/8
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2007/8
+  Benef: Non vendu
+  a_vendre: Non
   achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1841,12 +1952,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2007/8
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
   achat: "25 \u20AC"
   championnat: Serie A
   club: Juventus de Turin
@@ -1862,12 +1974,13 @@
   patch: CL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2018/19
   taille: L
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2015/16
+  Benef: Non vendu
+  a_vendre: Non
   achat: "50 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -1883,12 +1996,13 @@
   patch: PL
   plateforme: Instagram
   prix_de_vente: N/A
-  saison: 2015/16
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2021/22
+  Benef: Non vendu
+  a_vendre: Non
   achat: "65 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1904,12 +2018,13 @@
   patch: Liga
   plateforme: Barca Store
   prix_de_vente: N/A
-  saison: 2021/22
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2004/05
+  Benef: Non vendu
+  a_vendre: Non
   achat: "115 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -1925,12 +2040,13 @@
   patch: Liga
   plateforme: Vintage Velti Football
   prix_de_vente: N/A
-  saison: 2004/05
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 1999/00
+  Benef: Non vendu
+  a_vendre: Non
   achat: "199 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -1946,13 +2062,14 @@
   patch: N/A
   plateforme: Hashtag Paris
   prix_de_vente: N/A
-  saison: 1999/00
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Sold
-  achat: N/A
+- ' ': 2020/21
+  Benef: "25 \u20AC"
+  a_vendre: Sold
+  achat: "0 \u20AC"
   championnat: Liga
   club: Barcelona
   data_achat: 12-2021
@@ -1967,12 +2084,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: "25 \u20AC"
-  saison: 2020/21
   taille: M
   type: Training
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2011/12
+  Benef: Non vendu
+  a_vendre: Non
   achat: "45 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -1988,12 +2106,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2011/12
   taille: L
   type: Away
   vendu: Non
   version: Stock Pro L/S
-- a_vendre: Non
+- ' ': 2021/22
+  Benef: Non vendu
+  a_vendre: Non
   achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2009,12 +2128,13 @@
   patch: CL
   plateforme: Barca Store
   prix_de_vente: N/A
-  saison: 2021/22
   taille: L
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2020/21
+  Benef: Non vendu
+  a_vendre: Non
   achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2030,12 +2150,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2020/21
   taille: M
   type: Home
   vendu: Non
   version: Player issue
-- a_vendre: Non
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
   achat: "87 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2051,12 +2172,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2018/19
   taille: L
   type: Home
   vendu: Non
   version: Player issue
-- a_vendre: Non
+- ' ': 2011/12
+  Benef: Non vendu
+  a_vendre: Non
   achat: "18 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2072,12 +2194,13 @@
   patch: Liga + 3 + WC
   plateforme: Leboncoin
   prix_de_vente: N/A
-  saison: 2011/12
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2020/21
+  Benef: Non vendu
+  a_vendre: Non
   achat: "30 \u20AC"
   championnat: Equipe Nationale
   club: Allemagne
@@ -2093,12 +2216,13 @@
   patch: N/A
   plateforme: Adidas
   prix_de_vente: N/A
-  saison: 2020/21
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2021/22
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -2114,12 +2238,13 @@
   patch: Liga
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2021/22
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2019/20
+  Benef: "10 \u20AC"
+  a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2135,12 +2260,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "25 \u20AC"
-  saison: 2019/20
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "20 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2156,12 +2282,13 @@
   patch: Copa del Rey
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2016/17
   taille: L
   type: Home
   vendu: Non
   version: Player issue
-- a_vendre: Non
+- ' ': 2013/14
+  Benef: Non vendu
+  a_vendre: Non
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2177,12 +2304,13 @@
   patch: Liga
   plateforme: Leboncoin
   prix_de_vente: N/A
-  saison: 2013/14
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2011/12
+  Benef: Non vendu
+  a_vendre: Non
   achat: "95 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2198,12 +2326,13 @@
   patch: Liga + WC
   plateforme: Classic Football Shirts
   prix_de_vente: N/A
-  saison: 2011/12
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2008/9
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -2219,12 +2348,13 @@
   patch: Liga
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2008/9
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "30 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -2240,12 +2370,13 @@
   patch: PL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2016/17
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2015/16
+  Benef: Non vendu
+  a_vendre: Non
   achat: "30 \u20AC"
   championnat: Premier League
   club: Manchester City
@@ -2261,12 +2392,13 @@
   patch: PL
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2015/16
   taille: M
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2019/20
+  Benef: Non vendu
+  a_vendre: Non
   achat: "22 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2282,12 +2414,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2019/20
   taille: M
   type: Third
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
   achat: "72 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2303,12 +2436,13 @@
   patch: N/A
   plateforme: Vintage Football Area
   prix_de_vente: N/A
-  saison: 2018/19
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2004/05
+  Benef: Non vendu
+  a_vendre: Non
   achat: "45 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2324,12 +2458,13 @@
   patch: Liga
   plateforme: Instagram
   prix_de_vente: N/A
-  saison: 2004/05
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2010/11
+  Benef: "-10 \u20AC"
+  a_vendre: Sold
   achat: "75 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2345,12 +2480,13 @@
   patch: Liga + WC
   plateforme: Vinted
   prix_de_vente: "65 \u20AC"
-  saison: 2010/11
   taille: L
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Sold
+- ' ': 2011/12
+  Benef: "15 \u20AC"
+  a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Equipe Nationale
   club: Portugal
@@ -2366,12 +2502,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: "30 \u20AC"
-  saison: 2011/12
   taille: L
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "115 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2387,12 +2524,13 @@
   patch: N/A
   plateforme: Instagram
   prix_de_vente: N/A
-  saison: 2016/17
   taille: L
   type: Home
   vendu: Non
   version: Stock Pro L/S
-- a_vendre: Non
+- ' ': 2010/11
+  Benef: Non vendu
+  a_vendre: Non
   achat: "15 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2408,12 +2546,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2010/11
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2017/18
+  Benef: Non vendu
+  a_vendre: Non
   achat: "19 \u20AC"
   championnat: Equipe Nationale
   club: Argentina
@@ -2429,12 +2568,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2017/18
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2014/15
+  Benef: Non vendu
+  a_vendre: Non
   achat: "100 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2450,12 +2590,13 @@
   patch: Liga
   plateforme: Classic Football Shirts
   prix_de_vente: N/A
-  saison: 2014/15
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2012/13
+  Benef: "40 \u20AC"
+  a_vendre: Sold
   achat: "25 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2471,12 +2612,13 @@
   patch: Liga + 3
   plateforme: Vinted
   prix_de_vente: "65 \u20AC"
-  saison: 2012/13
   taille: L
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Oui
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Oui
   achat: "35 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2491,13 +2633,14 @@
   numero: '#6'
   patch: N/A
   plateforme: Vinted
-  prix_de_vente: N/A
-  saison: 2018/19
+  prix_de_vente: "75 \u20AC"
   taille: XL
   type: Home
-  vendu: Non
+  vendu: Sold
   version: Replica
-- a_vendre: Sold
+- ' ': 2014/15
+  Benef: "10 \u20AC"
+  a_vendre: Sold
   achat: "20 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2513,12 +2656,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: "30 \u20AC"
-  saison: 2014/15
   taille: L
   type: Home
   vendu: Oui
   version: Player issue
-- a_vendre: Non
+- ' ': 2014/15
+  Benef: Non vendu
+  a_vendre: Non
   achat: "20 \u20AC"
   championnat: Equipe Nationale
   club: France
@@ -2534,12 +2678,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2014/15
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2011/12
+  Benef: "35 \u20AC"
+  a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Serie A
   club: Milan AC
@@ -2555,12 +2700,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: "50 \u20AC"
-  saison: 2011/12
   taille: XL
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "65 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -2576,12 +2722,13 @@
   patch: N/A
   plateforme: Classic Football Shirts
   prix_de_vente: N/A
-  saison: 2016/17
   taille: L
   type: Third
   vendu: Non
   version: Player issue
-- a_vendre: Non
+- ' ': 2018/19
+  Benef: Non vendu
+  a_vendre: Non
   achat: "24 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2597,12 +2744,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2018/19
   taille: M
   type: Away
   vendu: Non
   version: Replica L/S
-- a_vendre: Sold
+- ' ': 2015/16
+  Benef: "5 \u20AC"
+  a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2618,12 +2766,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "20 \u20AC"
-  saison: 2015/16
   taille: L
   type: Away
   vendu: Oui
   version: Replica
-- a_vendre: Sold
+- ' ': 2011/12
+  Benef: "3 \u20AC"
+  a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2639,12 +2788,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: "18 \u20AC"
-  saison: 2011/12
   taille: XL
   type: Away
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2008/9
+  Benef: Non vendu
+  a_vendre: Non
   achat: "70 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2660,12 +2810,13 @@
   patch: Liga
   plateforme: Classic Football Shirts
   prix_de_vente: N/A
-  saison: 2008/9
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2008/9
+  Benef: "-15 \u20AC"
+  a_vendre: Sold
   achat: "70 \u20AC"
   championnat: Serie A
   club: Milan AC
@@ -2681,12 +2832,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: "55 \u20AC"
-  saison: 2008/9
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Sold
+- ' ': 2016/17
+  Benef: "3 \u20AC"
+  a_vendre: Sold
   achat: "15 \u20AC"
   championnat: Bundesliga
   club: Dortmund
@@ -2702,12 +2854,13 @@
   patch: N/A
   plateforme: Ebay
   prix_de_vente: "18 \u20AC"
-  saison: 2016/17
   taille: XL
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2016/17
+  Benef: Non vendu
+  a_vendre: Non
   achat: "15 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -2723,12 +2876,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2016/17
   taille: L
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2005/06
+  Benef: Non vendu
+  a_vendre: Non
   achat: "70 \u20AC"
   championnat: Premier League
   club: Manchester United
@@ -2744,12 +2898,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2005/06
   taille: M
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2010/11
+  Benef: "15 \u20AC"
+  a_vendre: Sold
   achat: "30 \u20AC"
   championnat: Premier League
   club: Arsenal
@@ -2765,12 +2920,13 @@
   patch: PL
   plateforme: Vinted
   prix_de_vente: "45 \u20AC"
-  saison: 2010/11
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Sold
+- ' ': 2004/05
+  Benef: "0 \u20AC"
+  a_vendre: Sold
   achat: "20 \u20AC"
   championnat: Serie A
   club: Juventus de Turin
@@ -2786,12 +2942,13 @@
   patch: N/A
   plateforme: Ebay
   prix_de_vente: "20 \u20AC"
-  saison: 2004/05
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2008/9
+  Benef: Non vendu
+  a_vendre: Non
   achat: "30 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -2807,12 +2964,13 @@
   patch: N/A
   plateforme: Ebay
   prix_de_vente: N/A
-  saison: 2008/9
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Sold
+- ' ': 2004/05
+  Benef: "-8 \u20AC"
+  a_vendre: Sold
   achat: "25 \u20AC"
   championnat: Bundesliga
   club: Bayern Munich
@@ -2828,12 +2986,13 @@
   patch: N/A
   plateforme: Vinted
   prix_de_vente: "17 \u20AC"
-  saison: 2004/05
   taille: M
   type: Home
   vendu: Oui
   version: Replica
-- a_vendre: Non
+- ' ': 2015/16
+  Benef: Non vendu
+  a_vendre: Non
   achat: "40 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2849,12 +3008,13 @@
   patch: Liga
   plateforme: Vinted
   prix_de_vente: N/A
-  saison: 2015/16
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2020/21
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Equipe Nationale
   club: France
@@ -2870,12 +3030,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2020/21
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2019/20
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -2891,12 +3052,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2019/20
   taille: XL
   type: Away
   vendu: Non
   version: Player issue
-- a_vendre: Non
+- ' ': 2017/18
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Ligue 1
   club: Caen
@@ -2912,12 +3074,13 @@
   patch: Ligue 1
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2017/18
   taille: XL
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2017/18
+  Benef: Non vendu
+  a_vendre: Non
   achat: "11 \u20AC"
   championnat: Liga
   club: Barcelona
@@ -2933,12 +3096,13 @@
   patch: Liga
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2017/18
   taille: M
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2014/15
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Liga
   club: Barcelona
@@ -2954,12 +3118,13 @@
   patch: N/A
   plateforme: GIft
   prix_de_vente: N/A
-  saison: 2014/15
   taille: S
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2012/13
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Equipe Nationale
   club: France
@@ -2975,12 +3140,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2012/13
   taille: S
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2011/12
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Ligue 1
   club: AJ Auxerre
@@ -2996,12 +3162,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2011/12
   taille: L
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2010/11
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Manchester United
@@ -3017,12 +3184,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2010/11
   taille: 14yo
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2010/11
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Chelsea
@@ -3038,12 +3206,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2010/11
   taille: 10yo
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2009/10
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Eredevise
   club: Ajax Amsterdam
@@ -3059,12 +3228,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2009/10
   taille: S
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2009/10
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Ligue 1
   club: Lyon
@@ -3080,12 +3250,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2009/10
   taille: 14yo
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2009/10
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Manchester United
@@ -3101,12 +3272,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2009/10
   taille: 12yo
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2009/10
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Manchester City
@@ -3122,12 +3294,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2009/10
   taille: 12yo
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2008/9
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Ligue 1
   club: Caen
@@ -3143,12 +3316,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2008/9
   taille: 12yo
   type: Home
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2008/9
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Liverpool
@@ -3164,12 +3338,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2008/9
   taille: 12yo
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2008/9
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Premier League
   club: Arsenal
@@ -3185,12 +3360,13 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2008/9
   taille: 8yo
   type: Away
   vendu: Non
   version: Replica
-- a_vendre: Non
+- ' ': 2008/9
+  Benef: Non vendu
+  a_vendre: Non
   achat: N/A
   championnat: Equipe Nationale
   club: England
@@ -3206,8 +3382,29 @@
   patch: N/A
   plateforme: Gift
   prix_de_vente: N/A
-  saison: 2008/9
   taille: 12 yo
   type: Home
   vendu: Non
   version: Replica
+- ' ': ''
+  Benef: '628'
+  a_vendre: ''
+  achat: ''
+  championnat: ''
+  club: ''
+  data_achat: ''
+  estimation: ''
+  etat_flocage: ''
+  etat_maillot: ''
+  floque: ''
+  id: ''
+  joueur: ''
+  marque: ''
+  numero: ''
+  patch: ''
+  plateforme: ''
+  prix_de_vente: ''
+  taille: ''
+  type: ''
+  vendu: ''
+  version: ''
