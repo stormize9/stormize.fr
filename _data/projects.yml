@@ -1,3 +1,113 @@
+- ' ': 2016/17
+  Benef: ''
+  a_vendre: Oui
+  achat: "40 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 07-2024
+  estimation: "75 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '159'
+  joueur: Luis Suarez
+  marque: Nike
+  numero: '#9'
+  patch: Liga + World Cup
+  plateforme: Leboncoin
+  prix_de_vente: "75 \u20AC"
+  taille: M
+  type: Home
+  vendu: Non
+  version: Replica
+- ' ': 2011/12
+  Benef: ''
+  a_vendre: Oui
+  achat: "42 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 06-2024
+  estimation: "75 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '158'
+  joueur: Lionel Messi
+  marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "75 \u20AC"
+  taille: L
+  type: Home
+  vendu: Non
+  version: Replica
+- ' ': 2013/14
+  Benef: ''
+  a_vendre: Oui
+  achat: "38 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 06-2024
+  estimation: "75 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '157'
+  joueur: Lionel Messi
+  marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "75 \u20AC"
+  taille: S
+  type: Home
+  vendu: Non
+  version: Replica
+- ' ': 2010/11
+  Benef: ''
+  a_vendre: Oui
+  achat: "46 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 06-2024
+  estimation: "85 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '156'
+  joueur: Lionel Messi
+  marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "85 \u20AC"
+  taille: S
+  type: Away
+  vendu: Non
+  version: Replica
+- ' ': 2012/13
+  Benef: ''
+  a_vendre: Oui
+  achat: "39 \u20AC"
+  championnat: Liga
+  club: Barcelona
+  data_achat: 06-2024
+  estimation: "75 \u20AC"
+  etat_flocage: '9'
+  etat_maillot: '9'
+  floque: Oui
+  id: '155'
+  joueur: Lionel Messi
+  marque: Nike
+  numero: '#10'
+  patch: Liga
+  plateforme: Vinted
+  prix_de_vente: "75 \u20AC"
+  taille: M
+  type: Home
+  vendu: Non
+  version: Replica
 - ' ': 2023/24
   Benef: ''
   a_vendre: Non
@@ -23,18 +133,18 @@
 - ' ': 2014/15
   Benef: Non vendu
   a_vendre: Non
-  achat: "23 \u20AC"
+  achat: "40\u20AC"
   championnat: Equipe Nationale
   club: Pays-Bas
   data_achat: 05-2024
-  estimation: "30 \u20AC"
-  etat_flocage: N/A
+  estimation: "60 \u20AC"
+  etat_flocage: '10'
   etat_maillot: '9'
-  floque: N/A
+  floque: Oui
   id: '153'
-  joueur: N/A
+  joueur: Arjen Robben
   marque: Nike
-  numero: '#N/A'
+  numero: '#11'
   patch: N/A
   plateforme: Leboncoin
   prix_de_vente: N/A
